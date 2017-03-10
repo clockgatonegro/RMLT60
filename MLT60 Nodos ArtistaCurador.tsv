@@ -1,0 +1,3290 @@
+id_nodo	nombre_nodo	ano_apa	subclass	attr	class_nodo
+a.1	Emma Reyes	1915	Colombia	45	artista
+a.2	Édgar Negret		Colombia	31	artista
+a.3	Lorenzo Homar		Puerto Rico	29	artista
+a.4	Ómar Rayo	1928	Colombia	28	artista
+a.5	María de la Paz Jaramillo	1948	Colombia	27	artista
+a.6	Gy Szabo Bela		Rumania	25	artista
+a.7	Pedro Alcántara Herrán	1942	Colombia	22	artista
+a.8	Álvaro Barrios		Colombia	21	artista
+a.9	Beatriz González	1938	Colombia	20	artista
+a.10	Hernán Díaz		Colombia	20	artista
+a.11	Antonio Caro	1950	Colombia	17	artista
+a.12	Enrique Grau	1920	Colombia	17	artista
+a.13	Gustavo Zalamea		Colombia	16	artista
+a.14	Óscar Muñoz	1951	Colombia	15	artista
+a.15	Luis Eduardo Borja		Colombia	15	artista
+a.16	Luis Caballero	1942	Colombia	15	artista
+a.17	Lucy Tejada	1920	Colombia	14	artista
+a.18	Nunik Sauret		México	12	artista
+a.19	León Ferrari		Brasil	12	artista
+a.20	Juan Antonio Roda	1921	Español	12	artista
+a.21	Teresa Cuéllar		Colombia	11	artista
+a.22	Santiago Cárdenas	1932	Colombia	10	artista
+a.23	Hernando Tejada	1924	Colombia	11	artista
+a.24	David Manzur	1929	Colombia	10	artista
+a.25	Daniel Zelaya		Argentina	9	artista
+a.26	Umberto Giangrandi		Colombia	8	artista
+a.27	Rafael Moure		Colombia	8	artista
+a.28	Pablo Obelar		Uruguay	8	artista
+a.29	Liliana Porter	1941	Argentina	8	artista
+a.30	Antonio Barrera	1948	Colombiana	7	artista
+a.31	Fernell Franco Barrios	1942	Colombia	0	artista
+a.32	Carlos Cruz-Diez		Venezuela	7	artista
+a.33	Wifredo Lam		Cuba	6	artista
+a.34	Paul-Armand Gette		Francia	5	artista
+a.35	Manuel Hernández	1928	Colombiana	5	artista
+a.36	Linda Troeller		Estados Unidos	6	artista
+a.37	Francois Dolmetsch	1940	Inglaterra	0	artista
+a.38	Emilio Sánchez		Cuba	5	artista
+a.39	Eduardo Ramírez Villamizar		Colombia	6	artista
+a.40	Carlos Rojas		Colombia	6	artista
+a.41	Alejandro Obregón	1920	Español	6	artista
+a.42	Peter Milton		Estados Unidos	5	artista
+a.43	Miguel Ángel Rojas		Colombia	5	artista
+a.44	María Thereza Negreiros	1930	Brasileña 	5	artista
+a.45	Luis Camnitzer		Uruguay	5	artista
+a.46	Leonel Góngora	1932	Colombia	5	artista
+a.47	Gregorio Cuartas	1938	Colombia	4	artista
+a.48	Ever Astudillo	1948	Colombia	5	artista
+a.49	Eugenio Dittborn	1943	Chile	5	artista
+a.50	Diego Arango	1946	Colombia	5	artista
+a.51	Víctor Laignelet	1955	Colombia	4	artista
+a.52	Sylvia Patiño		Colombia	4	artista
+a.53	Susy Iglicki		Venezuela	4	artista
+a.54	Sergio Camporeale	1937	Argentina	4	artista
+a.55	Roser Bru		Chile	4	artista
+a.56	Rodolfo Abularach	1933	Guatemala	4	artista
+a.57	Robert Nelson		Estados Unidos	4	artista
+a.58	René Portocarrero		Cuba	4	artista
+a.59	Mercedes Sebastián		Colombia	4	artista
+a.60	María Cristina Cortés		Colombia	4	artista
+a.61	León Alcántara		Colombia	4	artista
+a.62	Juan Camilo Uribe		Colombia	4	artista
+a.63	Juan Bernal Ponce		Chile	3	artista
+a.64	José Guadalupe Posada		México	4	artista
+a.65	José Gamarra	1934	Uruguay	2	artista
+a.66	Jonier Marín		Colombia	3	artista
+a.67	John Castles		Colombia	4	artista
+a.68	Jan Bartelsman		Colombia	4	artista
+a.69	Iazid Thame		Brasil	4	artista
+a.70	Hugo Zapata		Colombia	4	artista
+a.71	Geo Ripley		Rep. Dominicana	4	artista
+a.72	Fernando de Szyszlo	1925	Perú	4	artista
+a.73	Feliza Bursztyn		Colombia	4	artista
+a.74	Eduardo Vilches		Chile	4	artista
+a.75	Cristina Llano	1955	Colombiana	4	artista
+a.76	Antonio Seguí	1934	Argentina	4	artista
+a.77	Ana Mercedes Hoyos	1942	Colombia	4	artista
+a.78	Álvaro Marín Vieco		Colombia	4	artista
+a.79	Alicia Viteri		Colombia	4	artista
+a.80	Alfonso Quijano Acero		Colombia	4	artista
+a.81	Yutaka Toyota	1931	Brasil / Japón	3	artista
+a.82	Wilmer García		Colombia	3	artista
+a.83	Will Barnet		Estados Unidos	1	artista
+a.84	Shigeru Kimura		Japón	3	artista
+a.85	Rufino Tamayo		México	3	artista
+a.86	Roxana Mejía Vallejo		Colombia	3	artista
+a.87	Rosemberg Sandoval	1959	Colombia	2	artista
+a.88	Rogelio Polesello		Argentina	3	artista
+a.89	Rodolfo Vélez	1956	Colombia	3	artista
+a.90	Roberto Sebastián Matta		Chile	3	artista
+a.91	Robert Kipniss			2	artista
+a.92	Paul Davis		Estados Unidos	3	artista
+a.93	Pablo Picasso		España	3	artista
+a.94	Otto Moll González		Colombia	3	artista
+a.95	Óscar Jaramillo		Colombia	3	artista
+a.96	Nubia Hoyos De Bonilla		Colombia	3	artista
+a.97	Nancy Friedemann		Colombia	3	artista
+a.98	Miljenko Horvat		Canadá	3	artista
+a.99	Miguel Bresciano		Uruguay	3	artista
+a.100	Mariano Rodríguez		Cuba	3	artista
+a.101	María Luisa Beer		Brasil	3	artista
+a.102	María Angélica Medina			0	artista
+a.103	Lydia Azout		Colombia	3	artista
+a.104	Luis Fernando Peláez	1945	Colombia	3	artista
+a.105	Luis Fernando Roldán	1955	Colombia	3	artista
+a.106	Luis Díaz		Guatemala	3	artista
+a.107	Luis Hernández Cruz		Puerto Rico	2	artista
+a.108	Luciano Jaramillo		Colombia	2	artista
+a.109	Louise Nevelson		Estados Unidos	3	artista
+a.110	Karen Lamassonne		Colombia	3	artista
+a.111	Julio Le Parc		Argentina	3	artista
+a.112	Juan Manuel Echavarría	1947	Colombia	3	artista
+a.113	Juan Soriano		México	2	artista
+a.114	José Horacio Martínez	1961	Colombia	3	artista
+a.115	Jesús Rafael Soto		Venezuela	3	artista
+a.116	Ignacio Gómez Jaramillo		Colombia	3	artista
+a.117	Heriberto Cogollo		Colombia	3	artista
+a.118	Francisco Rocca-Lynn		Colombia	3	artista
+a.119	Francisco Rodón		Puerto Rico	3	artista
+a.120	Francis Bacon		Inglaterra	2	artista
+a.121	Eduardo Carvajal		Colombia	3	artista
+a.122	Delia Cugat		Argentina	3	artista
+a.123	Darío Morales		Colombia	3	artista
+a.124	Clarisse Gueller		Brasil	3	artista
+a.125	Catalina Mejía		Colombia	3	artista
+a.126	Carlos Martínez		Colombia	3	artista
+a.127	Bernardo Salcedo		Colombia	3	artista
+a.128	Augusto Rendón		Colombia	3	artista
+a.129	Arcangelo Ianelli		Brasil	3	artista
+a.130	Alberto Castro Leñero		México	3	artista
+a.131	Ximena De Valdenebro		Colombia	2	artista
+a.132	Vicky Neumann	1963	Colombia	2	artista
+a.133	Vera Frenkel		Canadá	2	artista
+a.134	Tina Celis		Colombia	1	artista
+a.135	Tabo Toral		Panamá	2	artista
+a.136	Sonia Gutiérrez		Colombia	2	artista
+a.137	Saturnino Ramírez		Colombia	2	artista
+a.138	Ruth Bessoudo Courvoisier		Brasil	2	artista
+a.139	Ruby Posada		Colombia	2	artista
+a.140	Rubens Gerchman		Brasil	2	artista
+a.141	Ronny Vayda		Colombia	2	artista
+a.142	Rolando Peña		Venezuela	2	artista
+a.143	Rodrigo Facundo		Colombia	2	artista
+a.144	Roberto De Lamonica		Brasil	2	artista
+a.145	Risaburo Kimura		Japón	2	artista
+a.146	Régulo Pérez		Venezuela	2	artista
+a.147	Ramón Ferran-Pages		España	2	artista
+a.148	Rafael Echeverri		Colombia	2	artista
+a.149	Rafael Ortiz	1960	Colombia	2	artista
+a.150	Phanor León	1944	Colombia	1	artista
+a.151	Pedro Nel Gómez		Colombia	2	artista
+a.152	Patricia Tavera		Colombia	2	artista
+a.153	Óscar Campo	1957	Colombia	2	artista
+a.154	Óscar Pantoja		Bolivia	2	artista
+a.155	Olga Amaral		Colombia	2	artista
+a.156	Noé Nojechowicz		Argentina	2	artista
+a.157	Nirma Zarate		Colombia	2	artista
+a.158	Mireille Muheim		Suiza	2	artista
+a.159	Miguel Bohmer	1958	Colombia	2	artista
+a.160	Mario Gordillo		Ecuador	2	artista
+a.161	Mario Martin Del Campo		México	2	artista
+a.162	Mario Ossaba		Colombia	2	artista
+a.163	María Teresa Vieco	1953	Colombia	2	artista
+a.164	Margarita Monsalve		Colombia	2	artista
+a.165	Marco Ospina		Colombia	2	artista
+a.166	Luz Ángela Lizarazo	1966	Colombia	2	artista
+a.167	Luisa Palacios		Venezuela	2	artista
+a.168	Luis Gregorio Correia		Brasil	2	artista
+a.169	Luis Alberto Solari	1918	Uruguay	2	artista
+a.170	Luis Guevara Moreno		Venezuela	2	artista
+a.171	Luis Martínez Pedro		Cuba	2	artista
+a.172	Luis Molinari-Flores		Ecuador	2	artista
+a.173	Lucas Ospina	1971	Colombia	0	artista
+a.174	Lorenzo Jaramillo		Colombia	2	artista
+a.175	Leonilda González		Uruguay	2	artista
+a.176	Leonardo Herrera		Colombia	2	artista
+a.177	Julio Alpuy		Uruguay	2	artista
+a.178	Juan Manuel Lugo		Colombia	2	artista
+a.179	Juan Cárdenas		Colombia	2	artista
+a.180	José Luis Cuevas		México	2	artista
+a.181	José Balmes	1925	Chile	2	artista
+a.182	José Bermúdez		Cuba	2	artista
+a.183	Jorge Alberto Reyes		Colombia	2	artista
+a.184	Jorge Mantilla Caballero		Colombia	2	artista
+a.185	John Paul Jones	1924	Estados Unidos	2	artista
+a.186	Jim Amaral		Estados Unidos	2	artista
+a.187	Jaime Franco	1963	Colombia	1	artista
+a.188	Jaime González		Colombia	2	artista
+a.189	Jaime Valencia		Colombia	2	artista
+a.190	Ivan Rickermann		Colombia	1	artista
+a.191	Ignacio Gómez Pulido		Colombia	2	artista
+a.192	Hilda Crovo		Argentina	2	artista
+a.193	Herman Braun-Vega	1933	Perú	3	artista
+a.194	H. Yoshihara		Japón	2	artista
+a.195	Guillermo Trujillo		Panamá	2	artista
+a.196	Gracia Barrios	1926	Chile	2	artista
+a.197	Gloria Duncan		Colombia	2	artista
+a.198	Germán Londoño	1961	Colombia	2	artista
+a.199	Gabriel Messil		Argentina	2	artista
+a.200	Fernando Botero	1932	Colombia	2	artista
+a.201	Fernando Maza		Argentina	2	artista
+a.202	Enrique Aguirrezabala		Argentina	2	artista
+a.203	Elías Heim	1966	Colombia	2	artista
+a.204	Eduardo Audivert		Argentina	2	artista
+a.205	Édgar Álvarez		Colombia	2	artista
+a.206	Diego Mazuera	1950	Colombiana	2	artista
+a.207	David Alfaro Siqueiros	1896	México	2	artista
+a.208	Danilo Dueñas		Colombia	2	artista
+a.209	Dana W. Atchley		Canadá	2	artista
+a.210	Cecilia Coronel		Colombia	1	artista
+a.211	Cecilia Delgado		Colombia	2	artista
+a.212	Carlos Jacanamijoy Tisoy	1964	Colombia	2	artista
+a.213	Carlos Lersundy García		Colombia	2	artista
+a.214	Carlos Salas Silva	1957	Colombia	2	artista
+a.215	Bibiana Vélez	1956	Colombia	2	artista
+a.216	Becky Mayer	1944	Colombia	2	artista
+a.217	Beatriz Daza		Colombia	2	artista
+a.218	Augusto Rivera		Colombia	2	artista
+a.219	Arturo Kubotta		Perú	2	artista
+a.220	Antonio Frasconi		Uruguay	2	artista
+a.221	Anne Meredith Barry		Canadá	2	artista
+a.222	Ángela Villegas	1974	Colombia	1	artista
+a.223	Ana María Rueda	1954	Colombia	2	artista
+a.224	Ana Tiscornia		Uruguay	2	artista
+a.225	Allan D'Arcangelo		Estados Unidos	2	artista
+a.226	Alfredo Castañeda		México	2	artista
+a.227	Alfredo Guerrero	1936	Colombia	2	artista
+a.228	Alexis Gorodine		Venezuela	2	artista
+a.229	Alejandro Otero		Venezuela	2	artista
+a.230	Aldo Menéndez		Cuba	2	artista
+a.231	Alberto Lenis Burckhardt		Colombia	2	artista
+a.232	Agustín Fernández		Cuba	2	artista
+a.233	Adolfo Bernal		Colombia	2	artista
+a.234	Zulay Herrera		Venezuela	1	artista
+a.235	Yairo Mejía		Colombia	1	artista
+a.236	Wilma Martins		Brasil	1	artista
+a.237	William Stone		Venezuela	1	artista
+a.238	William Weege		Estados Unidos	1	artista
+a.239	Willem De Kooning		Estados Unidos	1	artista
+a.240	Warrington Colescott		Estados Unidos	1	artista
+a.241	Vlady Kibalchich		México	0	artista
+a.242	Vivian Monsalve	1957	Colombia	1	artista
+a.243	Virginia Amaya		Colombia	1	artista
+a.244	Víctor Rebuffo		Argentina	1	artista
+a.245	Víctor Valera		Venezuela	1	artista
+a.246	Victor Rebuffo		Argentina	1	artista
+a.247	Vicente Rojo		México	1	artista
+a.248	Toshihiro Katayama		Estados Unidos	1	artista
+a.249	Tony Onley		Canadá	1	artista
+a.250	Tomás Gonda		Argentina	1	artista
+a.251	Tino Stefanoni		Italia	1	artista
+a.252	Thom O'Connor		Estados Unidos	1	artista
+a.253	Tancredo De Araújo		Brasil	1	artista
+a.254	Tamiji Kitagawa		Japón	0	artista
+a.255	Tadeo Castro		Perú	1	artista
+a.256	Susy Dembo		Venezuela	1	artista
+a.257	Susana Sierra		México	1	artista
+a.258	Susan Hudson		Canadá	1	artista
+a.259	Sonnylal Rambissoon		Trinidad	1	artista
+a.260	Sonia Von Brusky		Brasil	1	artista
+a.261	Sofía Urrutia		Colombia	1	artista
+a.262	Simón Gouverneur		Venezuela	1	artista
+a.263	Seymour Chwast		Estados Unidos	1	artista
+a.264	Servando Cabrera Moreno		Cuba	1	artista
+a.265	Sefa Ferré		España	1	artista
+a.266	Saúl Huerta		Venezuela	1	artista
+a.267	Saúl Steinberg		Estados Unidos	1	artista
+a.268	Santiago Martínez Delgado		Colombia	1	artista
+a.269	Santiago Uribe Holguín		Colombia	1	artista
+a.270	Samy Benmayor		Chile	1	artista
+a.271	Samuel Antupit		Estados Unidos	1	artista
+a.272	Samuel Montealegre		Colombia	1	artista
+a.273	Sam Francis		Estados Unidos	1	artista
+a.274	Ruben Nuñez		Venezuela	1	artista
+a.275	Roy Lichtenstein		Estados Unidos	1	artista
+a.276	Rosa Tavárez		Rep. Dominicana	1	artista
+a.277	Ronald Duncan		Estados Unidos	1	artista
+a.278	Rómulo Rozo		Colombia	1	artista
+a.279	Rolando Paiva		Paraguay	1	artista
+a.280	Rodolfo Arico		Italia	1	artista
+a.281	Rodolfo Bernal		Colombia	1	artista
+a.282	Rodolfo Nieto		México	1	artista
+a.283	Rodolfo Sánchez		Colombia	1	artista
+a.284	Roberto Aizenberg		Argentina	1	artista
+a.285	Roberto Angulo		Colombia	1	artista
+a.286	Roberto Cabrera		Guatemala	1	artista
+a.287	Roberto Donis		México	1	artista
+a.288	Roberto Pizano		Colombia	1	artista
+a.289	Robert Indiana		Estados Unidos	1	artista
+a.290	Robert Motherwell		Estados Unidos	1	artista
+a.291	Robert Rauschenberg		Estados Unidos	1	artista
+a.292	Rimer Cardillo		Uruguay	1	artista
+a.293	Richard Claude Ziemann		Estados Unidos	1	artista
+a.294	Richard Lindner		Estados Unidos	1	artista
+a.295	Ricardo Borrero		Colombia	1	artista
+a.296	Ricardo Gómez Campuzano		Colombia	1	artista
+a.297	Ricardo Mesa		Chile	1	artista
+a.298	Ricardo Potes Vargas		Colombia	1	artista
+a.299	Ricardo Rocha		México	1	artista
+a.300	Ria Zurne		Holanda	1	artista
+a.301	Rebeca Navarro		Colombia	1	artista
+a.302	Raúl Cattelani		Uruguay	1	artista
+a.303	Raquel Forner		Argentina	1	artista
+a.304	Raquel Rabinovich		Argentina	1	artista
+a.305	Rangel Gutiérrez		Colombia	1	artista
+a.306	Ramón Vanegas		Colombia	1	artista
+a.307	Rafael Canogar		España	1	artista
+a.308	Rafael Coronel		México	1	artista
+a.309	Rafael Panizza		Colombia	1	artista
+a.310	Rafael Tufiño		Puerto Rico	1	artista
+a.311	Pol Mara		Bélgica	1	artista
+a.312	Pilar Caballero		Colombia	1	artista
+a.313	Pierre Aletchinsky		Bélgica	1	artista
+a.314	Pierre Ayot		Canadá	1	artista
+a.315	Pierre Keller		Suiza	1	artista
+a.316	Philippe Leroy		Colombia	1	artista
+a.317	Penny Bennet		España	1	artista
+a.318	Pedro León Zapata		Venezuela	1	artista
+a.319	Pedro Barreto		Venezuela	1	artista
+a.320	Pedro Coronel		México	1	artista
+a.321	Pedro Friedberg		México	1	artista
+a.322	Patricia Bonilla	1949	Colombia	1	artista
+a.323	Patricia Bravo	1966	Colombia	1	artista
+a.324	Paige Abadi		Colombia	1	artista
+a.325	Pablo O'higgins		México	1	artista
+a.326	Pablo Runyan		Panamá	1	artista
+a.327	Pablo Van Wong		Colombia	1	artista
+a.328	Oswaldo Guayasamín		Ecuador	1	artista
+a.329	Oswaldo Subero		Venezuela	1	artista
+a.330	Oswaldo Verenzuela		Venezuela	1	artista
+a.331	Oswaldo Vigas		Venezuela	1	artista
+a.332	Óscar González Cerón		Colombia	1	artista
+a.333	Óscar Ramos			0	artista
+a.334	Óscar Smoje		Argentina	1	artista
+a.335	Olga Costa		México	1	artista
+a.336	Ofelia Rodríguez		Colombia	1	artista
+a.337	Odetto Guersoni		Brasil	1	artista
+a.338	Octavio Mendoza		Colombia	1	artista
+a.339	Norberto Onofrio		Argentina	1	artista
+a.340	Nja Mahdaoui		Túnez	1	artista
+a.341	Nina Squires		Trinidad	1	artista
+a.342	Nicolás De La Hoz		Colombia	1	artista
+a.343	Nerio Quintero		Venezuela	1	artista
+a.344	Nelson Sambolin		Puerto Rico	1	artista
+a.345	Nelson Villalobo		Cuba	1	artista
+a.346	Ned Truss		Estados Unidos	1	artista
+a.347	Natalia Granada		Colombia	1	artista
+a.348	Narciso Yepes			0	artista
+a.349	Nadín Ospina	1960	Colombia	1	artista
+a.350	Myrna Báez		Puerto Rico	1	artista
+a.351	Mónika Herrán		Colombia	1	artista
+a.352	Mónica Meira		Colombia	1	artista
+a.353	Mónica Negret		Colombia	1	artista
+a.354	Mimo Rotella		Italia	1	artista
+a.355	Milton Glaser		Estados Unidos	1	artista
+a.356	Milos Jonic		Francia	1	artista
+a.357	Miguel Ángel Reyes	1952	Colombiana	1	artista
+a.358	Miguel Ángel Rios		Argentina	1	artista
+a.359	Miguel Cervantes		México	1	artista
+a.360	Miguel Conti		Argentina	1	artista
+a.361	Miguel Herrera		Chile	1	artista
+a.362	Michel Leclair		Canadá	1	artista
+a.363	Mercedes Pardo		Venezuela	1	artista
+a.364	Melitón Rodríguez		Colombia	1	artista
+a.365	Mauricio Bueno	1939	Ecuador	1	artista
+a.366	Mauricio Lasansky		Estados Unidos	1	artista
+a.367	Mathias Goeritz		México	1	artista
+a.368	Mateo Manaure		Venezuela	1	artista
+a.369	Massimo Vignelli		Estados Unidos	1	artista
+a.370	Masayo Andrade		Colombia	1	artista
+a.371	Masaaki Sato		Japón	1	artista
+a.372	Marta Lucía Villafañe	1954	Colombia	1	artista
+a.373	Marta Elena Vélez		Colombia	1	artista
+a.374	Marta Combariza		Colombia	1	artista
+a.375	Mario Carreño		Chile	1	artista
+a.376	Mario Gurfein		Argentina	1	artista
+a.377	Mario Radice		Italia	1	artista
+a.378	Mario Toral		Chile	1	artista
+a.379	Mario Zabaleta		Colombia	1	artista
+a.380	Marilyn Tamkin		México	1	artista
+a.381	Marietta Berman		Venezuela	1	artista
+a.382	Mariana Varela		Colombia	1	artista
+a.383	María Victoria Vélez		Colombia	1	artista
+a.384	María Teresa Rizzi		Colombia	1	artista
+a.385	María José Morales		Colombia	1	artista
+a.386	María Fernanda López		Colombia	1	artista
+a.387	María Clara Gómez		Colombia	1	artista
+a.388	María Clara Piñeyro		Colombia	1	artista
+a.389	María Girona		España	1	artista
+a.390	Margot Römer		Venezuela	1	artista
+a.391	Marcos Gallango		Venezuela	1	artista
+a.392	Marco Tobón Mejía		Colombia	1	artista
+a.393	Marcelo Bonevardi		Argentina	1	artista
+a.394	Manuel Camargo		Colombia	1	artista
+a.395	Manuel Chong Neto		Panamá	1	artista
+a.396	Manuel Espinoza		Venezuela	1	artista
+a.397	Manuel Estrada		Colombia	1	artista
+a.398	Manuel Felguérez		México	1	artista
+a.399	Manuel García		Cuba	1	artista
+a.400	Man Ray		Estados Unidos	1	artista
+a.401	Luz Donoso		Chile	1	artista
+a.402	Luis Guillermo Botero		Colombia	1	artista
+a.403	Luis Fernando Escobar		Colombia	1	artista
+a.404	Luis Fernando Zapata		Colombia	1	artista
+a.405	Luis Ángel Rengifo		Colombia	1	artista
+a.406	Luis Alfonso Ramírez		Colombia	1	artista
+a.407	Luis Adrián León		Venezuela	1	artista
+a.408	Luis Aguilar Ponce		Panamá	1	artista
+a.409	Luis Chacón		Venezuela	1	artista
+a.410	Luis García Guerrero		México	1	artista
+a.411	Luis Gómez -Quirós		Chile	1	artista
+a.412	Luis López Loza		México	1	artista
+a.413	Luis Luna		Colombia	1	artista
+a.414	Luis Paz		Colombia	1	artista
+a.415	Luis Roncancio		Colombia	1	artista
+a.416	Luigi Veronessi		Italia	1	artista
+a.417	Lucas Céspedes		Perú	1	artista
+a.418	Louise Richter		Venezuela	1	artista
+a.419	Louis Estremadoyro		Puerto Rico	1	artista
+a.420	Lope Max Díaz Rivera		Puerto Rico	1	artista
+a.421	Liliana Durán		Colombia	1	artista
+a.422	Liliana Vergara		Colombia	1	artista
+a.423	Leopoldo Novoa		Uruguay	1	artista
+a.424	Leonora Carrington		México	1	artista
+a.425	Leonor Campo De Lega		Colombia	1	artista
+a.426	Leonard Baskin		Estados Unidos	1	artista
+a.427	León Ricaurte Miranda		Ecuador	1	artista
+a.428	Kenjilo Nanao		Estados Unidos	1	artista
+a.429	Julio Augusto Zachrisson		Panamá	1	artista
+a.430	Julio Camino Sánchez		Perú	1	artista
+a.431	Julio Santiago		Puerto Rico	1	artista
+a.432	Julio Silva		Argentina	1	artista
+a.433	Julián Posada		Colombia	1	artista
+a.434	Juan Manuel De La Rosa		México	1	artista
+a.435	Juan Mejía	1966	Norteamericana	1	artista
+a.436	Juan Antonio Bordalejo		Argentina	1	artista
+a.437	Juan Dal Vera		Panamá	1	artista
+a.438	Juan Fresan		Argentina	1	artista
+a.439	Juan Hernández Pijoan		España	1	artista
+a.440	Juan Obregón		Colombia	1	artista
+a.441	Joseph Kosuth		Estados Unidos	1	artista
+a.442	Josep Guinovart		España	1	artista
+a.443	José María Yturralde		España	1	artista
+a.444	José Luis Fajardo		España	1	artista
+a.445	José Guillermo Castillo		Venezuela	1	artista
+a.446	José Clemente Orozco		México	1	artista
+a.447	José Antonio Dávila		Venezuela	1	artista
+a.448	José Antonio Suarez		Colombia	1	artista
+a.449	José Antonio Suárez Londoño		Colombia	0	artista
+a.450	José Bartoli		México	1	artista
+a.451	José Chávez Morado		México	1	artista
+a.452	José De Monmte		Argentina	0	artista
+a.453	José Franco		Cuba	1	artista
+a.454	José García Ocejo		México	1	artista
+a.455	José Mina		Colombia	1	artista
+a.456	José Moreno		Chile	1	artista
+a.457	José Urbach		Colombia	1	artista
+a.458	Jorge Julián Aristizábal	1962	Colombia	2	artista
+a.459	Jorge Acero	1968	Colombia	1	artista
+a.460	Jorge Camacho		Cuba	1	artista
+a.461	Jorge Gómez		Colombia	1	artista
+a.462	Jorge González	1969	Colombia	1	artista
+a.463	Jorge Pérez-Castaño		Cuba	1	artista
+a.464	Jordi Secall-Roure		España	1	artista
+a.465	Johnny Rasmussen		Colombia	1	artista
+a.466	John Grillo		Estados Unidos	1	artista
+a.467	John Lange		Venezuela	1	artista
+a.468	John Massey		Estados Unidos	1	artista
+a.469	John McLaughlin		Estados Unidos	1	artista
+a.470	Johanna Calle	1965	Colombia	1	artista
+a.471	Joaquín Ferrer		Cuba	1	artista
+a.472	Joan Josep Tharrats		España	1	artista
+a.473	Jim Dine		Estados Unidos	1	artista
+a.474	Jesús María Zamora	1875	Colombia	1	artista
+a.475	Jesús Martínez		México	1	artista
+a.476	Jean Gabriel Thénot	1951	Frances	1	artista
+a.477	Javier Restrepo		Colombia	1	artista
+a.478	Jan Cremer		Holanda	1	artista
+a.479	James Brown		Estados Unidos	1	artista
+a.480	Jaime Ávila	1966	Colombia	1	artista
+a.481	Jaime Iregui	1956	Colombia	1	artista
+a.482	Jaime León			0	artista
+a.483	Jaime Osorio		Colombia	1	artista
+a.484	Jaime Suárez	1946	Puerto Rico	1	artista
+a.485	Jacques Hurtubise		Canadá	1	artista
+a.486	Jacques Villon		Francia	1	artista
+a.487	Jacobo Borges		Venezuela	1	artista
+a.488	Ivel Weihmuller		Argentina	1	artista
+a.489	Ismael Martínez Guardado		México	1	artista
+a.490	Ignacio Miranda		México	1	artista
+a.491	Humberto Jaimes		Venezuela	1	artista
+a.492	Hugo Arape		Venezuela	1	artista
+a.493	Hugo Camandona		Perú	1	artista
+a.494	Hugo Cifuentes		Ecuador	1	artista
+a.495	Homero Aguilar		Colombia	1	artista
+a.496	Hervé Télémaque		Haití	1	artista
+a.497	Hernando del Villar		Colombia	1	artista
+a.498	Hernando Ordóñez		Colombia	1	artista
+a.499	Hernando Rojas		Colombia	1	artista
+a.500	Hernán Zúñiga Alban		Ecuador	0	artista
+a.501	Herbert Bayer		Estados Unidos	1	artista
+a.502	Henry Pearson		Estados Unidos	1	artista
+a.503	Helio Salcedo		Colombia	1	artista
+a.504	Helga Krebs		Chile	1	artista
+a.505	Helen Escobedo		México	1	artista
+a.506	Hector Wiesner Gracia		Colombia	1	artista
+a.507	Hector Xavier		México	1	artista
+a.508	Harold Muñoz		Colombia	1	artista
+a.509	Hans Richter		Alemania	1	artista
+a.510	Hannes Postma		Holanda	1	artista
+a.511	Gustavo Vejarano		Colombia	1	artista
+a.512	Guillermo Cuartas		Colombia	1	artista
+a.513	Guillermo Londoño		Colombia	1	artista
+a.514	Guillermo Meza		México	1	artista
+a.515	Guillermo Núñez		Chile	1	artista
+a.516	Guillermo Vélez		Colombia	1	artista
+a.517	Guillermo Wiedemann		Colombia	1	artista
+a.518	Guillaume Corneille		Bélgica	1	artista
+a.519	Gonzalo Ariza		Colombia	1	artista
+a.520	Gonzalo Endara Crow		Ecuador	1	artista
+a.521	Gonzalo Endara-Crow		Ecuador	1	artista
+a.522	Gloria Uribe		Colombia	1	artista
+a.523	Gladys Meneses		Venezuela	1	artista
+a.524	Giuliano Barbanti		Italia	1	artista
+a.525	Giovanni Vargas	1976	Colombia	1	artista
+a.526	Gio Pomodoro		Italia	1	artista
+a.527	Gina Pellón		Cuba	1	artista
+a.528	Gilbert Wayembergue		Holanda	1	artista
+a.529	Gianfanco Ferroni		Italia	1	artista
+a.530	Gesner Armand		Haití	1	artista
+a.531	Gertrud Goldschmidt		Venezuela	1	artista
+a.532	Gerardo Chávez		Perú	1	artista
+a.533	Gerardo Ravassa		Colombia	1	artista
+a.534	George Raab		Canadá	1	artista
+a.535	Geny Dignac		Argentina	1	artista
+a.536	Gabriel Silva Rubio	1955	Colombia	1	artista
+a.537	Gabor Peterdi		Estados Unidos	1	artista
+a.538	Frederic Amat		España	1	artista
+a.539	Fred Koot		Canadá	1	artista
+a.540	Francisco Bellorin		Venezuela	1	artista
+a.541	Francisco Corzas		México	1	artista
+a.542	Francisco De La Puente		Chile	1	artista
+a.543	Francisco Smythe		Chile	1	artista
+a.544	Francisco Toledo		México	1	artista
+a.545	Francisco Zúñiga		México	1	artista
+a.546	Francesc Artigau		España	1	artista
+a.547	Flor María Bouhot		Colombia	1	artista
+a.548	Flavio Garciandía	1954	Cuba	1	artista
+a.549	Fernando Arias		Colombia	1	artista
+a.550	Fernando Cepeda		Colombia	1	artista
+a.551	Fernando García Ponce		México	1	artista
+a.552	Fernando Grillon		Paraguay	1	artista
+a.553	Fernando Ramos Prida		México	1	artista
+a.554	Fernando Tovar		Colombia	1	artista
+a.555	Fernando Vilchis		México	1	artista
+a.556	Félix Beltrán		Cuba	1	artista
+a.557	Feliciano Bejar		México	1	artista
+a.558	Federico Cantu		México	1	artista
+a.559	Federico Orozco		Colombia	1	artista
+a.560	Fanny Sanín		Colombia	1	artista
+a.561	Fabiola Roncancio		Colombia	1	artista
+a.562	Fabio Daza		Colombia	1	artista
+a.563	Fabio Serrano		Colombia	1	artista
+a.564	Fabián Rendón		Colombia	1	artista
+a.565	Ever Fonseca		Cuba	1	artista
+a.566	Ernesto Barreda		Chile	1	artista
+a.567	Ernest Trova	1927	Estados Unidos	1	artista
+a.568	Broglia		Uruguay	1	artista
+a.569	Enrique Buenaventura		Colombia	1	artista
+a.570	Enrique Sánchez		Colombia	1	artista
+a.571	Enrique Tábara		Ecuador	1	artista
+a.572	Emilio Ortiz		México	1	artista
+a.573	Emilio Scanavino		Italia	1	artista
+a.574	Elsa Zambrano		Colombia	1	artista
+a.575	Ellsworth Kelly		Estados Unidos	1	artista
+a.576	Elizabeth Saavedra		Colombia	1	artista
+a.577	Elba Damast		Venezuela	1	artista
+a.578	Efraim Martínez	1898	Colombia	1	artista
+a.579	Edward Ruscha		Estados Unidos	1	artista
+a.580	Eduardo Cervantes		Perú	1	artista
+a.581	Eduardo Mac Entyre		Argentina	1	artista
+a.582	Eduardo Macentyre		Argentina	1	artista
+a.583	Eduardo Pérez		Panamá	1	artista
+a.584	Eduardo Ruben		Cuba	1	artista
+a.585	Edith Behring		Brasil	1	artista
+a.586	Édgar Correal		Colombia	1	artista
+a.587	Édgar Sánchez		Venezuela	1	artista
+a.588	Duberney Marín		Colombia	1	artista
+a.589	Diego Rivera		México	1	artista
+a.590	Dicken Castro		Colombia	1	artista
+a.591	Diana Drews		Colombia	1	artista
+a.592	Denise Buraye		Colombia	1	artista
+a.593	Débora Arango	1910	Colombia	1	artista
+a.594	David Becker		Estados Unidos	1	artista
+a.595	Daniel Argimon		España	1	artista
+a.596	Daniel Senise	1956	Brasil	1	artista
+a.597	Cristobal Gabarron		España	1	artista
+a.598	Corina Briceño		Venezuela	1	artista
+a.599	Coqui Calderon		Panamá	1	artista
+a.600	Consuelo Gómez	1956	Colombia	1	artista
+a.601	Consuelo Gottay		Puerto Rico	1	artista
+a.602	Collette Portal		Francia	1	artista
+a.603	Clelia Cortemiglia		Italia	1	artista
+a.604	Cleber Machado		Brasil	1	artista
+a.605	Chuck Close	1940	Estados Unidos	1	artista
+a.606	Christian Staub		Suiza	1	artista
+a.607	Charles Roth		Estados Unidos	1	artista
+a.608	César Alfaro Mosquera	1967	Colombiana	1	artista
+a.609	Cecilia Vargas		Colombia	1	artista
+a.610	Catalina Cárdenas		Colombia	1	artista
+a.611	Carol Summers		Estados Unidos	1	artista
+a.612	Carol Young		Colombia	1	artista
+a.613	Carmenza Delgado		Colombia	1	artista
+a.614	Carmen Aguade		México	1	artista
+a.615	Carmen Aldunate	1935	Chile	1	artista
+a.616	Carlos Alberto García		Cuba	1	artista
+a.617	Carlos -Bororo- Maturana		Chile	1	artista
+a.618	Carlos Andrade		Colombia	1	artista
+a.619	Carlos Cárdenas		Cuba	1	artista
+a.620	Carlos Collazo		Puerto Rico	1	artista
+a.621	Carlos Correa		Colombia	1	artista
+a.622	Carlos Cuellar		México	1	artista
+a.623	Carlos Donaire		Chile	1	artista
+a.624	Carlos García Estrada		México	1	artista
+a.625	Carlos Gómez	1963	Colombia	1	artista
+a.626	Carlos Granada		Colombia	1	artista
+a.627	Carlos Nakatani		México	1	artista
+a.628	Carlos Revilla		Perú	1	artista
+a.629	Carlos Salazar		Colombia	1	artista
+a.630	Carlos Zerpa		Venezuela	1	artista
+a.631	Brian Nissen		México	1	artista
+a.632	Bolívar Gaudín		Uruguay	1	artista
+a.633	Blanca Obeyda Giraldo		Colombia	1	artista
+a.634	Blanca Restrepo		Colombia	1	artista
+a.635	Bezdykian Assadour		Líbano	1	artista
+a.636	Benjamín Lira		Chile	1	artista
+a.637	Beatriz Ángel		Colombia	1	artista
+a.638	Beatriz Duque		Colombia	1	artista
+a.639	Baruj Salinas		Cuba	1	artista
+a.640	Baldomero Pestana		Puerto Rico	1	artista
+a.641	Asdrúbal Domínguez		Rep. Dominicana	1	artista
+a.642	Ary Brizzi		Argentina	1	artista
+a.643	Arthur Luiz Piza		Brasil	1	artista
+a.644	Arthur Tashko		Colombia	0	artista
+a.645	Arnulfo Luna		Colombia	1	artista
+a.646	Arnoldo Ramírez Amaya		Guatemala	1	artista
+a.647	Arnaldo Coen		México	1	artista
+a.648	Armin Tröger		Colombia	1	artista
+a.649	Armando Londoño		Colombia	1	artista
+a.650	Antonio Eligio Fernandez		Cuba	1	artista
+a.651	Antonio Alvarado		Panamá	1	artista
+a.652	Antonio Berni		Argentina	1	artista
+a.653	Antonio Díaz-Cortés		México	1	artista
+a.654	Antonio Grass		Colombia	1	artista
+a.655	Antonio Joseph		Haití	1	artista
+a.656	Antonio Martorell		Puerto Rico	1	artista
+a.657	Antonio Osorio		Colombia	1	artista
+a.658	Antonio Peláez		México	1	artista
+a.659	Antonio Rodríguez		México	1	artista
+a.660	Antonio Samudio		Colombia	1	artista
+a.661	Antonio Saura		España	1	artista
+a.662	Antoni Tapies		España	1	artista
+a.663	Anselmo Carrera Rojas		Perú	1	artista
+a.664	Anna Letycia Quadros		Brasil	1	artista
+a.665	Anna Bella Geiger		Brasil	1	artista
+a.666	Aníbal Gil		Colombia	1	artista
+a.667	Ángela María Restrepo		Colombia	1	artista
+a.668	Ángel Loochkartt		Colombia	1	artista
+a.669	Andy Warhol		Estados Unidos	1	artista
+a.670	Ana Patricia Palacios		Colombia	1	artista
+a.671	Ana María Mazzei		Venezuela	1	artista
+a.672	Ana Durán		Colombia	1	artista
+a.673	Ana Velasco	1973	Colombia	1	artista
+a.674	Álvaro Herrán		Colombia	1	artista
+a.675	Álvaro Peñarete		Colombia	1	artista
+a.676	Alirio Palacios		Venezuela	1	artista
+a.677	Alicia Barney	1952	Colombia	1	artista
+a.678	Alfredo Liga Luppi		Argentina	0	artista
+a.679	Alfredo Lleras Rojas		Colombia	1	artista
+a.680	Alfredo Sinclair		Panamá	1	artista
+a.681	Alfredo Zalce		México	1	artista
+a.682	Alfonso Esparza		Colombia	1	artista
+a.683	Alfonso Mateus Ortega		Colombia	1	artista
+a.684	Alexander Calder		Estados Unidos	1	artista
+a.685	Alberto Arboleda		Colombia	1	artista
+a.686	Alberto Gironella		México	1	artista
+a.687	Alberto Gutiérrez		Colombia	1	artista
+a.688	Alberto Prieto		Colombia	1	artista
+a.689	Alberto Rincón		Colombia	1	artista
+a.690	Alberto Sierra		Colombia	1	artista
+a.691	Alberto Sojo		Colombia	1	artista
+a.692	Al Held		Estados Unidos	1	artista
+a.693	Agustín Cárdenas		Cuba	1	artista
+a.694	Anónimo De Tanzania		África	1	artista
+a.695	Guzmán			1	artista
+a.696	Lazid Thame,Francisco Icaza			1	artista
+a.697	Onosato		Japón	1	artista
+a.698	Tovar		Perú	1	artista
+a.699	Zulema Damianovich			0	artista
+a.700	Zheng Yunfeg			0	artista
+a.701	Yves Tanguy			0	artista
+a.702	Yolanda Mesa			0	artista
+a.703	Yolanda Pineda			0	artista
+a.704	Yesid Montaña			0	artista
+a.705	Yanz Poli			0	artista
+a.706	Ximena Medina			0	artista
+a.707	Xavier Héctor			0	artista
+a.708	Xanti Schawinsky			0	artista
+a.709	Wynn Bullock			0	artista
+a.710	Wulf Barsch			0	artista
+a.711	Wolfang Oppermann			0	artista
+a.712	Wiston Kennedy			0	artista
+a.713	Wing Fong			0	artista
+a.714	Wilson Díaz	1963	Colombia	0	artista
+a.715	Willy Spiler			0	artista
+a.716	William Baziotes			0	artista
+a.717	William Scott			0	artista
+a.718	William Turnbull			0	artista
+a.719	Will Bradley			0	artista
+a.720	Werner Bischof			0	artista
+a.721	Werner Friedli			0	artista
+a.722	Werner Haug			0	artista
+a.723	Werner Herzog			0	artista
+a.724	Werner Pfeiffer			0	artista
+a.725	Werner Schreib			0	artista
+a.726	Wendy Wilson			0	artista
+a.727	Weisner			0	artista
+a.728	Wayne Peterson			0	artista
+a.729	Wanda Pimentel			0	artista
+a.730	Walter Allner			0	artista
+a.731	Walter Bachinski			0	artista
+a.732	Walter Bosshard			0	artista
+a.733	Walter Kohler			0	artista
+a.734	Walter Laubli			0	artista
+a.735	Walter Mittelholzer			0	artista
+a.736	Walter Redinger			0	artista
+a.737	Walter Tello			0	artista
+a.738	Walter Valentini			0	artista
+a.739	Waldo Balart			0	artista
+a.740	Walderedo Goncalves			0	artista
+a.741	Walass Ting			0	artista
+a.742	Vita Giorgi			0	artista
+a.743	Virgilio Trompiz			0	artista
+a.744	Vinicio Horta			0	artista
+a.745	Vin Giuliani			0	artista
+a.746	Viktir Natali-Morosow			0	artista
+a.747	Victoria Salamanca			0	artista
+a.748	Víctor Chab			0	artista
+a.749	Víctor Delhez			0	artista
+a.750	Víctor Escalante			0	artista
+a.751	Víctor Moscoso			0	artista
+a.752	Víctor Robledo			0	artista
+a.753	Víctor Sánchez			0	artista
+a.754	Víctor Varela			0	artista
+a.755	Vicente Martín			0	artista
+a.756	Verónica Bancalari			0	artista
+a.757	Vásquez Brito			0	artista
+a.758	Van LeBus			0	artista
+a.759	Valerio Rodrigues			0	artista
+a.760	Valerie Brathwaite			0	artista
+a.761	Valerie Maynard			0	artista
+a.762	Uwe Lausen			0	artista
+a.763	Utz Kampmann			0	artista
+a.764	Ursula			0	artista
+a.765	Ursula Heller			0	artista
+a.766	Urs Luthi			0	artista
+a.767	Urs Stoss			0	artista
+a.768	Umberto Peña			0	artista
+a.769	Ulysse Dutoit			0	artista
+a.770	Uldarico Minotta			0	artista
+a.771	Tutua Boshell			0	artista
+a.772	Toni Krajnc			0	artista
+a.773	Tonel			0	artista
+a.774	Tomoko Miho			0	artista
+a.775	Tomie Ohtake			0	artista
+a.776	Tomás Parra			0	artista
+a.777	Tomás Sánchez			0	artista
+a.778	Tomas Lasasnsky			0	artista
+a.779	Tomas Reyes			0	artista
+a.780	Tom Berg			0	artista
+a.781	Todd Ayoung			0	artista
+a.782	Toa Castellanos			0	artista
+a.783	Titus-Carmel			0	artista
+a.784	Thophile Steinlen			0	artista
+a.785	Thomaz Ianelli			0	artista
+a.786	Thomas Coleman			0	artista
+a.787	Thomas Cugini			0	artista
+a.788	Thomas Gentille			0	artista
+a.789	Thomas Lenk			0	artista
+a.790	Thomas Mann			0	artista
+a.791	Thomas Ruff			0	artista
+a.792	Thomas Struth			0	artista
+a.793	Thibaut Cuisset			0	artista
+a.794	Thereza Miranda			0	artista
+a.795	Theo Frey			0	artista
+a.796	Teresa Arango			0	artista
+a.797	Teresa Casanova			0	artista
+a.798	Tere Perdomo			0	artista
+a.799	Teodoro Maoz			0	artista
+a.800	Tatiana Alamos			0	artista
+a.801	Tang Desheng			0	artista
+a.802	Tana Hoban			0	artista
+a.803	Talita Long			0	artista
+a.804	Takao Tanabe			0	artista
+a.805	Symour Chwast			0	artista
+a.806	Sydney Scherr			0	artista
+a.807	Suzanne Hausammann			0	artista
+a.808	Susan Kingsley			0	artista
+a.809	Susan Tamulevich			0	artista
+a.810	Susan Wilchins			0	artista
+a.811	Susan Zimmerman			0	artista
+a.812	Steven Cortright			0	artista
+a.813	Steven Sorman			0	artista
+a.814	Steve Poleskie			0	artista
+a.815	Stephen Albair			0	artista
+a.816	Stanley Hayter			0	artista
+a.817	Stanley Lechtzin			0	artista
+a.818	Soutie			0	artista
+a.819	Sophie Larger			0	artista
+a.820	Sonia Bohórquez			0	artista
+a.821	Sonia Castro			0	artista
+a.822	Sonia Sánchez			0	artista
+a.823	Solange Oliveira			0	artista
+a.824	Sol Lewitt			0	artista
+a.825	Slobodan Nedeljkovic			0	artista
+a.826	Sismo			0	artista
+a.827	Sine Hansen			0	artista
+a.828	Simone Meweg			0	artista
+a.829	Silvia Londoño			0	artista
+a.830	Silvia Malagrino			0	artista
+a.831	Silvia Mallarino			0	artista
+a.832	Silvia Patiño			0	artista
+a.833	Silvia Rivas			0	artista
+a.834	Silvia Salgado			0	artista
+a.835	Sigmund Abeles			0	artista
+a.836	Sigifredo Chacón			0	artista
+a.837	Shiro Ikegawa			0	artista
+a.838	Shiko Munakat			0	artista
+a.839	Sherry Grauer			0	artista
+a.840	Sheri Simons			0	artista
+a.841	Servulo Esmeraldo			0	artista
+a.842	Sergio Martínez			0	artista
+a.843	Sergio Moreno			0	artista
+a.844	Sergio Ruiz			0	artista
+a.845	Sergio Trujillo			0	artista
+a.846	Serge Tousignant			0	artista
+a.847	Saverio Castellano			0	artista
+a.848	Saúl Balagura			0	artista
+a.849	Sara Modiano			0	artista
+a.850	Santos Chávez			0	artista
+a.851	Santiago Medina			0	artista
+a.852	Santiago Spinosa			0	artista
+a.853	Sandy Walker			0	artista
+a.854	Sammy Benmayor			0	artista
+a.855	Salvador Dalí			0	artista
+a.856	Safet Zec			0	artista
+a.857	Sabara Segal			0	artista
+a.858	S. Crawford			0	artista
+a.859	Ruven Afanador			0	artista
+a.860	Ruth Nivola			0	artista
+a.861	Rupprecht Geiger			0	artista
+a.862	Rudy Pozzatti			0	artista
+a.863	Rudolf Lichtsteiner			0	artista
+a.864	Rousselot			0	artista
+a.865	Rossini Perez			0	artista
+a.866	Rossini Quintas			0	artista
+a.867	Rosmarie Hausheer			0	artista
+a.868	Rosita Carvajal			0	artista
+a.869	Rosi Schwartzman			0	artista
+a.870	Rosenell Baud			0	artista
+a.871	Rosa Vélez			0	artista
+a.872	Ronier Marín			0	artista
+a.873	Ronan			0	artista
+a.874	Ronald Lodes			0	artista
+a.875	Ron Arad			0	artista
+a.876	Ron Ho			0	artista
+a.877	Rolf Harder			0	artista
+a.878	Rolf Schroeter			0	artista
+a.879	Rolf Winnewiser			0	artista
+a.880	Rolando Dorrego			0	artista
+a.881	Roland Schneider			0	artista
+a.882	Rolado Peña			0	artista
+a.883	Rogério Luz			0	artista
+a.884	Roger Aguilar			0	artista
+a.885	Roger Cook			0	artista
+a.886	Roger Kuhn			0	artista
+a.887	Rodrigo Andrade			0	artista
+a.888	Rodrigo Callejas			0	artista
+a.889	Rodrigo Castaño			0	artista
+a.890	Rodrigo Fernández			0	artista
+a.891	Rodrigo Salazar			0	artista
+a.892	Rodolfo Ayoroa			0	artista
+a.893	Rodolfo Opazo			0	artista
+a.894	Rodolfo Ruiz			0	artista
+a.895	Roddolfo Vélez			0	artista
+a.896	Robin Quigley			0	artista
+a.897	Roberto Aguilar			0	artista
+a.898	Roberto Fabelo			0	artista
+a.899	Roberto Juárez			0	artista
+a.900	Roberto Paez			0	artista
+a.901	Roberto Páramo			0	artista
+a.902	Robert Adams			0	artista
+a.903	Robert Blackburn			0	artista
+a.904	Robert Brady			0	artista
+a.905	Robert Breer			0	artista
+a.906	Robert Edendort			0	artista
+a.907	Robert Fichter			0	artista
+a.908	Robert Frank			0	artista
+a.909	Robert Friedman			0	artista
+a.910	Robert Kushner			0	artista
+a.911	Robert Miles			0	artista
+a.912	Robert Osborn			0	artista
+a.913	Robert Parker			0	artista
+a.914	Robert Smithson			0	artista
+a.915	Robert Stackhouse			0	artista
+a.916	Robert Vickery			0	artista
+a.917	Robert Zakanitch			0	artista
+a.918	Rita Longa			0	artista
+a.919	Richard Coble			0	artista
+a.920	Richard Koslow			0	artista
+a.921	Richard Mafong			0	artista
+a.922	Richard Mill			0	artista
+a.923	Richard Pottruff			0	artista
+a.924	Richard Smith			0	artista
+a.925	Richard Ziemann			0	artista
+a.926	Richar Hutten			0	artista
+a.927	Ricardo Arjona			0	artista
+a.928	Ricardo Caballero			0	artista
+a.929	Ricardo Migliorisi			0	artista
+a.930	Ricardo Ohtake			0	artista
+a.931	Renina Katz			0	artista
+a.932	René Alis			0	artista
+a.933	René Avila			0	artista
+a.934	René Burri			0	artista
+a.935	René Groebli			0	artista
+a.936	René Machler			0	artista
+a.937	René Magritte			0	artista
+a.938	René Zäch			0	artista
+a.939	Remo Bianchedi			0	artista
+a.940	Régulo			0	artista
+a.941	Reginald Holmes			0	artista
+a.942	Reginald Pollack			0	artista
+a.943	Regina Cavalcanti			0	artista
+a.944	Regina Silveira			0	artista
+a.945	Refel Moure			0	artista
+a.946	Rebekah Laskin			0	artista
+a.947	Rebecca Medel			0	artista
+a.948	Raún Marroquín			0	artista
+a.949	Raúl			0	artista
+a.950	Raúl Alfaro			0	artista
+a.951	Raúl Alonso			0	artista
+a.952	Raúl Cristancho	1954	Colombiana	0	artista
+a.953	Raúl Marroquín	1948	Colombia/Holanda	0	artista
+a.954	Raúl Milián			0	artista
+a.955	Raul Jenkins			0	artista
+a.956	Raul Martínez			0	artista
+a.957	Ramona Solberg			0	artista
+a.958	Ramón Barba			0	artista
+a.959	Ramón Giovanni			0	artista
+a.960	Ramón Haiti			0	artista
+a.961	Ramón Oviedo			0	artista
+a.962	Ramiro Gómez			0	artista
+a.963	Ramiro Jácome			0	artista
+a.964	Ralph Eckerstrom			0	artista
+a.965	Ralph Stanbridge			0	artista
+a.966	Rainer Kuchenmeister			0	artista
+a.967	Raimundo Orozco			0	artista
+a.968	Raheel Bruns			0	artista
+a.969	Rafalel Tufiño			0	artista
+a.970	Rafael Bogarin			0	artista
+a.971	Rafael Botero			0	artista
+a.972	Rafael Paneca			0	artista
+a.973	Rafael Penagos			0	artista
+a.974	Rafael Zarza			0	artista
+a.975	Radi Designers			0	artista
+a.976	Plinio Carvajal			0	artista
+a.977	Pilar Otálora			0	artista
+a.978	Phillipe Leroy			0	artista
+a.979	Phillip Fike			0	artista
+a.980	Philipp Link			0	artista
+a.981	Philipe Starck			0	artista
+a.982	Philip Bragar			0	artista
+a.983	Philip Guston			0	artista
+a.984	Phil Harrison			0	artista
+a.985	Peter Eggen			0	artista
+a.986	Peter Haeberlin			0	artista
+a.987	Peter Knapp			0	artista
+a.988	Peter Lanyon			0	artista
+a.989	Peter Mussfeldt			0	artista
+a.990	Peter Petters			0	artista
+a.991	Peter Schudel			0	artista
+a.992	Peter Winderlich			0	artista
+a.993	Pérez Celis			0	artista
+a.994	Percy Martin			0	artista
+a.995	Pep Carrió			0	artista
+a.996	Pedro Friedeberg			0	artista
+a.997	Pedro Gross			0	artista
+a.998	Pedro Guimoye			0	artista
+a.999	Pedro Miranda			0	artista
+a.1000	Pedro Moreno			0	artista
+a.1001	Pedro Ramos			0	artista
+a.1002	Pedro Zapata			0	artista
+a.1003	Paulina Michaels			0	artista
+a.1004	Paul Levy			0	artista
+a.1005	Paul Rand			0	artista
+a.1006	Paul Senn			0	artista
+a.1007	Paul Wunderlich			0	artista
+a.1008	Patti Dougherty			0	artista
+a.1009	Patrick Messina			0	artista
+a.1010	Patrick Vilaire			0	artista
+a.1011	Patricia Esguerra			0	artista
+a.1012	Patricia Gómez			0	artista
+a.1013	Patricia Israel			0	artista
+a.1014	Patricia Uribe			0	artista
+a.1015	Pat Fleisher			0	artista
+a.1016	Pat Flynn			0	artista
+a.1017	Pascal Dolémieux			0	artista
+a.1018	PAS			0	artista
+a.1019	Parant			0	artista
+a.1020	Palito			0	artista
+a.1021	Pakiko Ordóñez	1976	Colombiana	0	artista
+a.1022	Pablo Adarme			0	artista
+a.1023	Pablo Barriga			0	artista
+a.1024	Pablo Gálvez			0	artista
+a.1025	Pablo Labañino			0	artista
+a.1026	Pablo Rocha			0	artista
+a.1027	P.V.D.I.			0	artista
+a.1028	Otto Neals			0	artista
+a.1029	Otto Piene			0	artista
+a.1030	Otto Rietmann			0	artista
+a.1031	Otilia Hernández			0	artista
+a.1032	Oswaldo López			0	artista
+a.1033	Oswaldo Viteri			0	artista
+a.1034	Oswaldo Vivas			0	artista
+a.1035	Osvaldo García			0	artista
+a.1036	Osvaldo Peña			0	artista
+a.1037	Osmar Fonseca			0	artista
+a.1038	Óscar Acosta			0	artista
+a.1039	Ómar Carreno			0	artista
+a.1040	Ómar Granados			0	artista
+a.1041	Oliver Peyricot			0	artista
+a.1042	Olga Blinder			0	artista
+a.1043	Olga García			0	artista
+a.1044	Olga Silva	1963	Colombiana	0	artista
+a.1045	Ohilipp Giegel			0	artista
+a.1046	Odorico Doglioni			0	artista
+a.1047	Octavio Toral			0	artista
+a.1048	Nuria Carulla			0	artista
+a.1049	Nubia Cadavid			0	artista
+a.1050	Norman McLaren			0	artista
+a.1051	Norman Mejía			0	artista
+a.1052	Norman Suescún			0	artista
+a.1053	Norma Minkowitz			0	artista
+a.1054	Nora Dobarro			0	artista
+a.1055	Noé León			0	artista
+a.1056	Nirma Zárate			0	artista
+a.1057	Nicolás Svistoonoff			0	artista
+a.1058	Nicolas Bouvier			0	artista
+a.1059	Nicolas Monkewitz			0	artista
+a.1060	Nicolas Sperakis			0	artista
+a.1061	Nicholas Ghika			0	artista
+a.1062	Nicholas Krushenick			0	artista
+a.1063	Newton Cavalcanti			0	artista
+a.1064	Nereo López			0	artista
+a.1065	Nemesio Antúnez			0	artista
+a.1066	Nelson Domínguez			0	artista
+a.1067	Nelson Román			0	artista
+a.1068	Nelson Stevens			0	artista
+a.1069	Nelida Bruniard			0	artista
+a.1070	Nelida López			0	artista
+a.1071	Nefertiti			0	artista
+a.1072	Nedo M.F.			0	artista
+a.1073	Naúl Ojeda			0	artista
+a.1074	Natasha Moreno			0	artista
+a.1075	Natalia Restrepo			0	artista
+a.1076	Natalia Rivera			0	artista
+a.1077	Nadia Benatar			0	artista
+a.1078	N.U.			0	artista
+a.1079	Myra Landau			0	artista
+a.1080	Multidiseño-Multidesign			0	artista
+a.1081	Mosset			0	artista
+a.1082	Morton Goldsholl			0	artista
+a.1083	Morgan Clifford			0	artista
+a.1084	Monique Jacot			0	artista
+a.1085	Monina Gómez			0	artista
+a.1086	Monika Lipken			0	artista
+a.1087	Mónica Nador			0	artista
+a.1088	Mónica Restrepo			0	artista
+a.1089	Mona Mondineu			0	artista
+a.1090	Moisés Barrios			0	artista
+a.1091	Moisés Finalé			0	artista
+a.1092	Mo Lebowitz			0	artista
+a.1093	Miriam Chiaverini			0	artista
+a.1094	Mireya Zawadzki			0	artista
+a.1095	Mira Schendel			0	artista
+a.1096	Milton Rodríguez			0	artista
+a.1097	Milica Vuckovic			0	artista
+a.1098	Mildred Burton			0	artista
+a.1099	Milan Simic			0	artista
+a.1100	Miky Bartelsman			0	artista
+a.1101	Mike Nevelson			0	artista
+a.1102	Miguel  Bresciano			0	artista
+a.1103	Miguel García			0	artista
+a.1104	Miguel Huertas			0	artista
+a.1105	MIguel Melcon			0	artista
+a.1106	Miguel Ocampo			0	artista
+a.1107	Miguel Poling			0	artista
+a.1108	Mietek Detyniecki			0	artista
+a.1109	Michel Séméniako			0	artista
+a.1110	Michael Hicks			0	artista
+a.1111	Michael Kirk			0	artista
+a.1112	Michael Knigin			0	artista
+a.1113	Michael Leclair			0	artista
+a.1114	Michael Mazur			0	artista
+a.1115	Michael Morris			0	artista
+a.1116	Michael Rothenstein			0	artista
+a.1117	Michael Wolgensinger			0	artista
+a.1118	Mi-Hyun Kim			0	artista
+a.1119	MFS			0	artista
+a.1120	Mestre Noza			0	artista
+a.1121	Merlyn Evans			0	artista
+a.1122	Mercedes Estévez			0	artista
+a.1123	Mercedes Mosquera			0	artista
+a.1124	Mercedes Parra			0	artista
+a.1125	Melodie Beylik			0	artista
+a.1126	Mel  Bochner			0	artista
+a.1127	Máximo Flórez			0	artista
+a.1128	Max Aruquipa			0	artista
+a.1129	Max Beckmann			0	artista
+a.1130	Max Ernest			0	artista
+a.1131	Max Wyss			0	artista
+a.1132	Maurio Gómez			0	artista
+a.1133	Mauricio Aguilar			0	artista
+a.1134	Mauricio Cruz			0	artista
+a.1135	Mauricio Cuéllar			0	artista
+a.1136	Mauricio Quintero			0	artista
+a.1137	Matilde Marín			0	artista
+a.1138	Matali Craset			0	artista
+a.1139	Matako Kayama			0	artista
+a.1140	Massau Nakakubo			0	artista
+a.1141	Mary Scholten			0	artista
+a.1142	Maruja Rolando			0	artista
+a.1143	Martínez Howard			0	artista
+a.1144	Martine Voyeux			0	artista
+a.1145	Martín Chambi	1891	Peruana	0	artista
+a.1146	Martin Disler			0	artista
+a.1147	Martin Levine			0	artista
+a.1148	Martin Prins			0	artista
+a.1149	Marti Guixé			0	artista
+a.1150	Martha Bertiz			0	artista
+a.1151	Martha Glowacki			0	artista
+a.1152	Martha Pires			0	artista
+a.1153	Martha Posso	1967	Colombiana	0	artista
+a.1154	Martha Torres			0	artista
+a.1155	Martha Trubint			0	artista
+a.1156	Marta Calderón			0	artista
+a.1157	Marta Granados			0	artista
+a.1158	Marta Lacorazza	1951	Colombia	0	artista
+a.1159	Marta Minujín		Argentina	1	artista
+a.1160	Marta Miranda			0	artista
+a.1161	Marta Palau			0	artista
+a.1162	Marta Ramirez			0	artista
+a.1163	Marta Rodríguez			0	artista
+a.1164	Marta Villegas			0	artista
+a.1165	Marna Goldstein			0	artista
+a.1166	Marlene Hoffmann			0	artista
+a.1167	Marlene Hori			0	artista
+a.1168	Markus Dulk			0	artista
+a.1169	Markus Raetz			0	artista
+a.1170	Marjorie Schick			0	artista
+a.1171	Marjolaine Dutoit			0	artista
+a.1172	Marite Zelt			0	artista
+a.1173	Marisol Escobar			0	artista
+a.1174	Mario Abreu			0	artista
+a.1175	Mario Gallardo			0	artista
+a.1176	Mauro Machado			0	artista
+a.1177	Mario Opazo	1969	Chileno	0	artista
+a.1178	Mario Rojas			0	artista
+a.1179	Mario Roldán			0	artista
+a.1180	Mario Sagradini			0	artista
+a.1181	Mariluz Álvarez			0	artista
+a.1182	Marília Rodrigues			0	artista
+a.1183	Marien Marsicovetere			0	artista
+a.1184	Marielle Muheim			0	artista
+a.1185	Marie-Paule Négre			0	artista
+a.1186	María Bonomi			0	artista
+a.1187	María Finocchetti			0	artista
+a.1188	María Menujin			0	artista
+a.1189	María Rodríguez			0	artista
+a.1190	María Shelley			0	artista
+a.1191	Margot Fanjul			0	artista
+a.1192	Margarita Becerra			0	artista
+a.1193	Margarita Gutiérrez			0	artista
+a.1194	Margarita Lozano			0	artista
+a.1195	Margarita Paksa			0	artista
+a.1196	Margarita Tamayo			0	artista
+a.1197	Marcos Irrizarry			0	artista
+a.1198	Marco Alvarado			0	artista
+a.1199	Marco Bruzzone			0	artista
+a.1200	Márcio Mattar			0	artista
+a.1201	Marcial Benavides			0	artista
+a.1202	Marcia Schvartz			0	artista
+a.1203	Marchel Broodthaers			0	artista
+a.1204	Marcelo Grassmman			0	artista
+a.1205	Marcel Floris			0	artista
+a.1206	Marc Chagall			0	artista
+a.1207	Marc Melki			0	artista
+a.1208	Marc Newson			0	artista
+a.1209	Manuel Baumann			0	artista
+a.1210	Manuel Boix			0	artista
+a.1211	Manuel Casellanos			0	artista
+a.1212	Manuel Lago			0	artista
+a.1213	Manuel Marín			0	artista
+a.1214	Manuel Mendive			0	artista
+a.1215	Manuel Mérida			0	artista
+a.1216	Manuel Mompo			0	artista
+a.1217	Manuel Mora			0	artista
+a.1218	Manuel Valdés			0	artista
+a.1219	Manfred Bingler			0	artista
+a.1220	Manasés Rodríguez			0	artista
+a.1221	Magdalena Beccarini			0	artista
+a.1222	Magdalena Bravo			0	artista
+a.1223	Lynda Kahn			0	artista
+a.1224	Luz Chessex			0	artista
+a.1225	Luitgardo Broce			0	artista
+a.1226	Luisa Ungar			0	artista
+a.1227	Luis Almeida			0	artista
+a.1228	Luis Aragón			0	artista
+a.1229	Luis Benedit			0	artista
+a.1230	Luis Cabrera			0	artista
+a.1231	Luis Cossio			0	artista
+a.1232	Luis Fonseca			0	artista
+a.1233	Luis Gordillo			0	artista
+a.1234	Luis Guevara			0	artista
+a.1235	Luis Hernández			0	artista
+a.1236	Luis Jaso			0	artista
+a.1237	Luis Monje			0	artista
+a.1238	Luis Ospina			0	artista
+a.1239	Luis Rincón			0	artista
+a.1240	Luis Wells			0	artista
+a.1241	Luigi Sandri			0	artista
+a.1242	Ludwig Hohlwein			0	artista
+a.1243	Ludwing Wilding			0	artista
+a.1244	Lucio Muñoz			0	artista
+a.1245	Luciano Castelli			0	artista
+a.1246	Lucía Hincapié			0	artista
+a.1247	Lucía Waiser			0	artista
+a.1248	Lucas Samaras			0	artista
+a.1249	Luca Bonetti			0	artista
+a.1250	Luc Béland			0	artista
+a.1251	Luc Peire			0	artista
+a.1252	Lowell Nesbitt			0	artista
+a.1253	Lourdes Morales			0	artista
+a.1254	Louisa Chase			0	artista
+a.1255	Louis Danziger			0	artista
+a.1256	Louis Nevelson			0	artista
+a.1257	Louis Richter			0	artista
+a.1258	Lou Dorfsman			0	artista
+a.1259	Lou Stovall			0	artista
+a.1260	Lotty Rosenfeld			0	artista
+a.1261	Lothar Quinte			0	artista
+a.1262	Lorenzo Castro			0	artista
+a.1263	Lojze Logar			0	artista
+a.1264	Loise Nevelsol			0	artista
+a.1265	Lloyd McNeill			0	artista
+a.1266	Livio Abramo			0	artista
+a.1267	Lis Kocher			0	artista
+a.1268	Linda McNeil			0	artista
+a.1269	Lina Espinoza			0	artista
+a.1270	Lin Jinghua			0	artista
+a.1271	Lily Salvo			0	artista
+a.1272	Lillian Elliott			0	artista
+a.1273	Liliane Dardot			0	artista
+a.1274	Liliana González			0	artista
+a.1275	Liliana Reyes			0	artista
+a.1276	Liliana Villegas	1967	Colombiana	0	artista
+a.1277	Lilia Carrillo			0	artista
+a.1278	Lidya Azout			0	artista
+a.1279	Libia Posada	1959	Colombiana	0	artista
+a.1280	Lia Cook			0	artista
+a.1281	Lia Kaufman			0	artista
+a.1282	Levier			0	artista
+a.1283	Leslie Correl			0	artista
+a.1284	Les Levine			0	artista
+a.1285	Leopoldo Méndez			0	artista
+a.1286	Leopoldo Richter			0	artista
+a.1287	Leonel Galeano	1971	Colombiana	0	artista
+a.1288	Leoncio Villanueva			0	artista
+a.1289	Leonardo Bezzola			0	artista
+a.1290	Leonard Lehrer			0	artista
+a.1291	León Múnera			0	artista
+a.1292	León Tenenbaum			0	artista
+a.1293	Leo Leonni			0	artista
+a.1294	Leo Matiz			0	artista
+a.1295	Leo NathanielHicks			0	artista
+a.1296	Leitón Rodríguez			0	artista
+a.1297	Leibe Liscano			0	artista
+a.1298	Lee Mullican			0	artista
+a.1299	Leda Watson			0	artista
+a.1300	Leandro Velasco			0	artista
+a.1301	Le Gac			0	artista
+a.1302	lazid Thame			0	artista
+a.1303	Laurie Hall			0	artista
+a.1304	Laszio Meitner			0	artista
+a.1305	Lasar Segall			0	artista
+a.1306	Larry Brown			0	artista
+a.1307	Lance Wyman			0	artista
+a.1308	Lalo Borja			0	artista
+a.1309	Kurt Blum			0	artista
+a.1310	Kurt Wyss			0	artista
+a.1311	Kunito Nagaoka			0	artista
+a.1312	Kristian Gavoile			0	artista
+a.1313	Konrad Klapheck			0	artista
+a.1314	Klavdij Tutta			0	artista
+a.1315	Kim Mansera			0	artista
+a.1316	Kenso Okada			0	artista
+a.1317	Kenneth Armitage			0	artista
+a.1318	Kenneth Caplan			0	artista
+a.1319	Kenneth Hale			0	artista
+a.1320	Kenneth Lochhead			0	artista
+a.1321	Kenjilao Nanao			0	artista
+a.1322	Ken Damby			0	artista
+a.1323	Kay Yee			0	artista
+a.1324	Kathryn Klingensmith			0	artista
+a.1325	Katherine Wesphal			0	artista
+a.1326	Karl Schrag			0	artista
+a.1327	Karen Cock			0	artista
+a.1328	Karen Zorich			0	artista
+a.1329	Juvenal Ravelo			0	artista
+a.1330	Juri Josa			0	artista
+a.1331	Jurg Klages			0	artista
+a.1332	June Jasen			0	artista
+a.1333	June Wayne			0	artista
+a.1334	Julio Abril			0	artista
+a.1335	Julio Camino			0	artista
+a.1336	Julio Castillo			0	artista
+a.1337	Julio Galán			0	artista
+a.1338	Julio Larraz			0	artista
+a.1339	Julie Shaw			0	artista
+a.1340	Juliana Anzellini			0	artista
+a.1341	Julián Castellanos	1944	Colombia	0	artista
+a.1342	Julián Usandizaga			0	artista
+a.1343	Julia Navarrete			0	artista
+a.1344	Jules Bonnet			0	artista
+a.1345	Jug Andermatt			0	artista
+a.1346	Judith Poxson			0	artista
+a.1347	Judith Ubick			0	artista
+a.1348	Juanita Pérez			0	artista
+a.1349	Juanit Cribb			0	artista
+a.1350	Juana Méndez			0	artista
+a.1351	Juana Salcedo			0	artista
+a.1352	Juan Barjola			0	artista
+a.1353	Juan Bordalejo			0	artista
+a.1354	Juan Downey			0	artista
+a.1355	Juan Esnard			0	artista
+a.1356	JUan Genovés			0	artista
+a.1357	Juan Gómez			0	artista
+a.1358	Juan Gris			0	artista
+a.1359	Juan Lecuona			0	artista
+a.1360	Juan Melo			0	artista
+a.1361	Juan Moreira			0	artista
+a.1362	Juan Santana			0	artista
+a.1363	Joze Spacal			0	artista
+a.1364	Joyce Lamassone			0	artista
+a.1365	Joyce Scott			0	artista
+a.1366	Joyce Treiman			0	artista
+a.1367	Joyce Wieland			0	artista
+a.1368	Joseph Almyda			0	artista
+a.1369	Joseph Cornell			0	artista
+a.1370	Joseph Hirsch			0	artista
+a.1371	Joseph Kashetsky			0	artista
+a.1372	Joseph Low			0	artista
+a.1373	Josep Monjalés			0	artista
+a.1374	Josef-Ludwing Taeschler			0	artista
+a.1375	Josef Bischolberger			0	artista
+a.1376	Josef Dahinden			0	artista
+a.1377	José Acevedo			0	artista
+a.1378	José Alicea			0	artista
+a.1379	José Bedia			0	artista
+a.1380	José Bracamonte			0	artista
+a.1381	José Braz			0	artista
+a.1382	José Caballero			0	artista
+a.1383	José Ceballos			0	artista
+a.1384	José Claroz			0	artista
+a.1385	José Gómez			0	artista
+a.1386	José Granco			0	artista
+a.1387	José Guinovart			0	artista
+a.1388	José Hernández	1944	Español	0	artista
+a.1389	José Kattan			0	artista
+a.1390	José Lamiel			0	artista
+a.1391	José Rosa			0	artista
+a.1392	José Tola			0	artista
+a.1393	Jorge Álvaro			0	artista
+a.1394	Jorge Arriaga			0	artista
+a.1395	Jorge Bachmann			0	artista
+a.1396	Jorge Canale			0	artista
+a.1397	Jorge Demirjian			0	artista
+a.1398	Jorge Drosten		Colombia	0	artista
+a.1399	Jorge Fornes			0	artista
+a.1400	Jorge Madriñán			0	artista
+a.1401	Jorge Montealegre			0	artista
+a.1402	Jorge Morán			0	artista
+a.1403	Jorge Ortiz			0	artista
+a.1404	Jorge Páez			0	artista
+a.1405	Jorge Peña			0	artista
+a.1406	Jorge Posada			0	artista
+a.1407	Jorge Reyes			0	artista
+a.1408	Jorge Robelo			0	artista
+a.1409	Jorge Rocha			0	artista
+a.1410	Jorge Stever			0	artista
+a.1411	Jorge Torres			0	artista
+a.1412	Jorge Valencia			0	artista
+a.1413	Jorge Yazpik			0	artista
+a.1414	Jorg Sasse			0	artista
+a.1415	Jonier Muñoz			0	artista
+a.1416	Jon Carsman			0	artista
+a.1417	John Esler			0	artista
+a.1418	John Loring			0	artista
+a.1419	John Manning			0	artista
+a.1420	John McQueen			0	artista
+a.1421	John Ross			0	artista
+a.1422	John Scott			0	artista
+a.1423	Johannes Bruell			0	artista
+a.1424	Johannes Itten			0	artista
+a.1425	Johannes Meiner			0	artista
+a.1426	Johann-Baptiste Taeschler			0	artista
+a.1427	Joe Delgado			0	artista
+a.1428	Joaquín Torres-García			0	artista
+a.1429	Joan Livingstone			0	artista
+a.1430	Joan Miró			0	artista
+a.1431	Jo Manning			0	artista
+a.1432	Jimena Rueda			0	artista
+a.1433	Jim Fannkugen	1976	Colombiana	0	artista
+a.1434	Jim Nawara			0	artista
+a.1435	Jesús Soto			0	artista
+a.1436	Jesn Dubuffet			0	artista
+a.1437	Jerome Brézillon			0	artista
+a.1438	Jeffrey Krolik			0	artista
+a.1439	Jeff Donaldson			0	artista
+a.1440	Jeannse Keefer			0	artista
+a.1441	Jeanette Ahlgren			0	artista
+a.1442	Jean-Pierre Maurer			0	artista
+a.1443	Jean-Christoph Ballot			0	artista
+a.1444	Jean Arp			0	artista
+a.1445	Jean Carlu			0	artista
+a.1446	Jean Helion			0	artista
+a.1447	Jean Mohr			0	artista
+a.1448	Jean Noel			0	artista
+a.1449	Javier Barrios			0	artista
+a.1450	Javier Suárez			0	artista
+a.1451	Javacheff Christo			0	artista
+a.1452	Jasper Johns			0	artista
+a.1453	Jasper Morrison			0	artista
+a.1454	Janez Boljka			0	artista
+a.1455	Janeth Blanco	1970	Colombiana	0	artista
+a.1456	Jan Palmer			0	artista
+a.1457	Jan Stüssy			0	artista
+a.1458	Jan Toorop			0	artista
+a.1459	Jan Tschichold			0	artista
+a.1460	Jan Voss			0	artista
+a.1461	James Bennett			0	artista
+a.1462	James Davis			0	artista
+a.1463	James Gill			0	artista
+a.1464	James Havard			0	artista
+a.1465	James McGarrell			0	artista
+a.1466	James Miho			0	artista
+a.1467	James Rosenquist			0	artista
+a.1468	James Strombotne			0	artista
+a.1469	James Wells			0	artista
+a.1470	Jakov Djuricic			0	artista
+a.1471	Jakob Gwinner			0	artista
+a.1472	Jakob Hoflinger			0	artista
+a.1473	Jakob Tuggener			0	artista
+a.1474	Jairo Guerrero			0	artista
+a.1475	Jairo Mejía			0	artista
+a.1476	Jairo Upegui			0	artista
+a.1477	Jair Glass			0	artista
+a.1478	Jaime Arango			0	artista
+a.1479	Jaime Ardila			0	artista
+a.1480	Jaime Cárdenas	1946	Colombiana	0	artista
+a.1481	Jaime Mendoza			0	artista
+a.1482	Jaime Román			0	artista
+a.1483	Jaime Romano			0	artista
+a.1484	Jaime Sáenz			0	artista
+a.1485	Jadir Freire			0	artista
+a.1486	Jacques Nathan			0	artista
+a.1487	Jacqueline Leirner			0	artista
+a.1488	Jacob Landau			0	artista
+a.1489	Jacob Lawrence			0	artista
+a.1490	Jack Metzger			0	artista
+a.1491	Jack Youngerman			0	artista
+a.1492	J. Borges			0	artista
+a.1493	Iwan Schumacher			0	artista
+a.1494	Ivy Ross			0	artista
+a.1495	Ivone Couto			0	artista
+a.1496	Ivanka Drufovka			0	artista
+a.1497	Iván González			0	artista
+a.1498	Ivan Chermayeff			0	artista
+a.1499	Ivan Eyre			0	artista
+a.1500	Ivan Freitas			0	artista
+a.1501	Italo Scanga			0	artista
+a.1502	Ismael Añez			0	artista
+a.1503	Ismael Frigerio			0	artista
+a.1504	Isidro Ferrer			0	artista
+a.1505	Isabel Arroyo	1958	Colombiana	0	artista
+a.1506	Isabel Easton			0	artista
+a.1507	Isabel Gimeno			0	artista
+a.1508	Isabel Pons			0	artista
+a.1509	Irene Redd			0	artista
+a.1510	Ilse Gordon			0	artista
+a.1511	Ikeda Masuo			0	artista
+a.1512	Hysni Krasnici			0	artista
+a.1513	Humberto Aquino			0	artista
+a.1514	Hugo Baptista			0	artista
+a.1515	Hugo Florián			0	artista
+a.1516	Hugo Herdeg			0	artista
+a.1517	Hugo Rivera			0	artista
+a.1518	Hugo Rojas			0	artista
+a.1519	Hsiao Chin			0	artista
+a.1520	Horst Antes			0	artista
+a.1521	Horst Janssen			0	artista
+a.1522	Honore Sharrer			0	artista
+a.1523	Hilla Becher			0	artista
+a.1524	Hery Wolf			0	artista
+a.1525	Hernando Cárdenas Valencia			0	artista
+a.1526	Hernando Guerrero			0	artista
+a.1527	Hernando Hoyos			0	artista
+a.1528	Hernando Lemaitre			0	artista
+a.1529	Hernando Salazar			0	artista
+a.1530	Hernando Vallderruten			0	artista
+a.1531	Hernán Dompé			0	artista
+a.1532	Hernán Lozano			0	artista
+a.1533	Hernán Muñoz			0	artista
+a.1534	Hernán Pazos			0	artista
+a.1535	Hernán Uribe			0	artista
+a.1536	Hermenegildo Sabat			0	artista
+a.1537	Hermann Stauder			0	artista
+a.1538	Herbert Matter			0	artista
+a.1539	Herbert Oehm			0	artista
+a.1540	Henry Bermúdez			0	artista
+a.1541	Henry Cliffe			0	artista
+a.1542	Henry Dunsmore			0	artista
+a.1543	Henry Lobo			0	artista
+a.1544	Henry Moore			0	artista
+a.1545	Henriette Grindat			0	artista
+a.1546	Henri Laurens			0	artista
+a.1547	Henri Matisse			0	artista
+a.1548	Helmunt Federle			0	artista
+a.1549	Helen Banes			0	artista
+a.1550	Helen Frankenthaler			0	artista
+a.1551	Helen Shirk			0	artista
+a.1552	Heinz-Dieter Finck			0	artista
+a.1553	Heinz Guggenbuhl			0	artista
+a.1554	Heinz Hebeisen			0	artista
+a.1555	Heinz Mack			0	artista
+a.1556	Heiner Kielholz			0	artista
+a.1557	Héctor Castro			0	artista
+a.1558	Héctor Labrada			0	artista
+a.1559	Hebert Bayer			0	artista
+a.1560	Hazard Durfee			0	artista
+a.1561	Harry Kiyooka			0	artista
+a.1562	Harry Lieberman			0	artista
+a.1563	Harold Klunder			0	artista
+a.1564	Harold Otero			0	artista
+a.1565	Harmony Hammond			0	artista
+a.1566	Hans Blohm			0	artista
+a.1567	Hans Dossenbach			0	artista
+a.1568	Hans Erni			0	artista
+a.1569	Hans Feuer			0	artista
+a.1570	Hans Finsler			0	artista
+a.1571	Hans Krebs			0	artista
+a.1572	Hans Laaps			0	artista
+a.1573	Hans Schapfler			0	artista
+a.1574	Hans Staub			0	artista
+a.1575	Hans Weyermann			0	artista
+a.1576	Hannah Doeleman			0	artista
+a.1577	Hanna Villiger			0	artista
+a.1578	Gyorgy Kepes			0	artista
+a.1579	Gyongy Laky			0	artista
+a.1580	Gustavo Espinosa			0	artista
+a.1581	Gustavo Hansson			0	artista
+a.1582	Gustavo Jaramillo			0	artista
+a.1583	Gustavo Quintero			0	artista
+a.1584	Gustavo Sorzano			0	artista
+a.1585	Günther Uecker			0	artista
+a.1586	Günter Fruhtrunk			0	artista
+a.1587	Guita Charifker			0	artista
+a.1588	Guillermo Conte			0	artista
+a.1589	Guillermo Duarte			0	artista
+a.1590	Guillermo Franco			0	artista
+a.1591	Guillermo Kuitca			0	artista
+a.1592	Guillermo Marín	1968 ó 1970	Colombiana	0	artista
+a.1593	Guillermo Melo			0	artista
+a.1594	Guillermo Restrepo			0	artista
+a.1595	Guillermo Silva			0	artista
+a.1596	Guevara Moreno			0	artista
+a.1597	Guen Inokuma			0	artista
+a.1598	Grupo Semefo			0	artista
+a.1599	Grimaldo Romero			0	artista
+a.1600	Gretchen Klunder-Raber			0	artista
+a.1601	Grégoire Korganow			0	artista
+a.1602	Graham Coughtry			0	artista
+a.1603	Graham Sutherland			0	artista
+a.1604	Gotthard Schuh			0	artista
+a.1605	Gordon Rayner			0	artista
+a.1606	Gonzalo Posada			0	artista
+a.1607	Gómez Pulido			0	artista
+a.1608	Goebel Weyne			0	artista
+a.1609	Gloria Elliot			0	artista
+a.1610	Gloria Escobar			0	artista
+a.1611	Gloria Posada			0	artista
+a.1612	Gladys Afamado			0	artista
+a.1613	Gladys Barney			0	artista
+a.1614	Giovanni Millán			0	artista
+a.1615	Giovanni Pintori			0	artista
+a.1616	Gino Pedroli			0	artista
+a.1617	Gina Lopez			0	artista
+a.1618	Gilvan Samico			0	artista
+a.1619	Gilberto Aceves			0	artista
+a.1620	Gilberto Frometa			0	artista
+a.1621	Gilberto Parra			0	artista
+a.1622	Gilberto Torrealba			0	artista
+a.1623	Gil Imana			0	artista
+a.1624	Gianfranco Galante			0	artista
+a.1625	Giancarlo Puppo			0	artista
+a.1626	Gette			0	artista
+a.1627	Gerty Sarue			0	artista
+a.1628	Gertrude Fehr			0	artista
+a.1629	Gertrud Duby-Muller			0	artista
+a.1630	Gert-Jan Bartelsman			0	artista
+a.1631	Gernot Bubenik			0	artista
+a.1632	Germán Aristizábal			0	artista
+a.1633	Germán Botero			0	artista
+a.1634	Germán Chaparro			0	artista
+a.1635	Germán Montalvo			0	artista
+a.1636	Germán Páez			0	artista
+a.1637	Germán Tellez			0	artista
+a.1638	German Braun			0	artista
+a.1639	Gerd Leufert			0	artista
+a.1640	Gerardo Aragón			0	artista
+a.1641	Gerardo Caballero			0	artista
+a.1642	Gerardo Negret			0	artista
+a.1643	Gerardo Reyes			0	artista
+a.1644	Gerardo Rueda			0	artista
+a.1645	Georges Rouault			0	artista
+a.1646	George Giusti			0	artista
+a.1647	George Miyasaki			0	artista
+a.1648	George Ortman			0	artista
+a.1649	George Smith			0	artista
+a.1650	Georg Gerster			0	artista
+a.1651	Geoffrey Clarke			0	artista
+a.1652	Gene Federico			0	artista
+a.1653	Gene Pijanowski			0	artista
+a.1654	Gathie Falk			0	artista
+a.1655	Gastón Betelli			0	artista
+a.1656	Gaspard-Félix Tournachon			0	artista
+a.1657	Garry Griffin			0	artista
+a.1658	Gail Gash			0	artista
+a.1659	Gael Stack			0	artista
+a.1660	Gabriela Pacific			0	artista
+a.1661	Gabriel Grendene			0	artista
+a.1662	Gabriel Ramírez			0	artista
+a.1663	Gabriel Suárez			0	artista
+a.1664	G. Klutsis			0	artista
+a.1665	Fritz Kothe			0	artista
+a.1666	Friedrich Kressmann			0	artista
+a.1667	Friederich Meckseper			0	artista
+a.1668	Fredy Serna			0	artista
+a.1669	Freddy Colorado			0	artista
+a.1670	Freda Sargent			0	artista
+a.1671	Fred Boissonnas			0	artista
+a.1672	Fred Mayer			0	artista
+a.1673	Fred Troller			0	artista
+a.1674	Fred Waldvogen			0	artista
+a.1675	Fred Woell			0	artista
+a.1676	Franziska Mollinger			0	artista
+a.1677	Franz Henn			0	artista
+a.1678	Frank Romero			0	artista
+a.1679	Frank Stella			0	artista
+a.1680	Francisco Antigua			0	artista
+a.1681	Francisco Cárdenas			0	artista
+a.1682	Francisco Dosamantas			0	artista
+a.1683	Francisco Espinoza			0	artista
+a.1684	Francisco Fernández			0	artista
+a.1685	Francisco Gallardo			0	artista
+a.1686	Francisco Gámez			0	artista
+a.1687	Francisco Jung			0	artista
+a.1688	Francisco López			0	artista
+a.1689	Francisco Piñeros			0	artista
+a.1690	Francisco Quilici			0	artista
+a.1691	Francisco Ramírez			0	artista
+a.1692	Francisco Redondo			0	artista
+a.1693	Francisco Restrepo			0	artista
+a.1694	Francisco Rodríguez			0	artista
+a.1695	Francisco Salazar			0	artista
+a.1696	Francisca Sutil			0	artista
+a.1697	Francesca Bellini			0	artista
+a.1698	Frances Myers			0	artista
+a.1699	Florise Herbez			0	artista
+a.1700	Florencia Vélez			0	artista
+a.1701	Florecen Bezrutczyk			0	artista
+a.1702	Flora Golberg			0	artista
+a.1703	Filomeno Hernández			0	artista
+a.1704	Ferney Shambo			0	artista
+a.1705	Fernando Abella			0	artista
+a.1706	Fernando Acosta			0	artista
+a.1707	Fernando Cruz			0	artista
+a.1708	Fernando Devis			0	artista
+a.1709	Fernando Duval			0	artista
+a.1710	Fernando Fazzolari			0	artista
+a.1711	Fernando García			0	artista
+a.1712	Fernando Hidalgo	1971	Colombiana	0	artista
+a.1713	Fernando Maldonado			0	artista
+a.1714	Fernando Uhía	1967	Colombiana	0	artista
+a.1715	Fernando Undurraga			0	artista
+a.1716	Fernand Bergeron			0	artista
+a.1717	Fernand Léger			0	artista
+a.1718	Ferdinand Kriwet			0	artista
+a.1719	Félix Domingo			0	artista
+a.1720	Félix Perdomo			0	artista
+a.1721	Felipe Arbeláez			0	artista
+a.1722	Felipe Herrera			0	artista
+a.1723	Felipe Orlando			0	artista
+a.1724	Felipe Salazar			0	artista
+a.1725	Feliks Topolsky			0	artista
+a.1726	Federman Contreras			0	artista
+a.1727	Fayga Ostrower			0	artista
+a.1728	Fay Medina			0	artista
+a.1729	Fánor León			0	artista
+a.1730	Fánor Satizábal			0	artista
+a.1731	Fanny Buitrago			0	artista
+a.1732	Fanny Finkelman			0	artista
+a.1733	Fabrizio Plessi			0	artista
+a.1734	Fabio Lozano			0	artista
+a.1735	Fabio Rodríguez			0	artista
+a.1736	Fabio Valencia			0	artista
+a.1737	Expedito			0	artista
+a.1738	Exaltación Casavilca			0	artista
+a.1739	Evelio Lecour			0	artista
+a.1740	Evelia Medina			0	artista
+a.1741	Evansandwong			0	artista
+a.1742	Eugenio Espinoza			0	artista
+a.1743	Eugenio Sanchez			0	artista
+a.1744	Eugenio Téllez			0	artista
+a.1745	Ethel Gilmour			0	artista
+a.1746	Esvaldo Monzo			0	artista
+a.1747	Estudio Canovas			0	artista
+a.1748	Estudio Shakespear			0	artista
+a.1749	Estuardo Maldonado			0	artista
+a.1750	Estrella Murillo	1972	Colombiana	0	artista
+a.1751	Esther Peck			0	artista
+a.1752	Esther Vainstein			0	artista
+a.1753	Esteban Villa	1962	Colombiana	0	artista
+a.1754	Esperanza Barroso			0	artista
+a.1755	Erwan Bouroullec			0	artista
+a.1756	Ernst Heiniger			0	artista
+a.1757	Ernst Link			0	artista
+a.1758	Ernst Scheidegger			0	artista
+a.1759	Ernesto Deira			0	artista
+a.1760	Ernesto Fontesilla			0	artista
+a.1761	Ernesto Lehfeld			0	artista
+a.1762	Ernesto Muñoz			0	artista
+a.1763	Ernesto Restrepo			0	artista
+a.1764	Ernesto Torres			0	artista
+a.1765	Ernest Bloch			0	artista
+a.1766	Ernest Roch			0	artista
+a.1767	Érika Diettes	1978	Colombiana	0	artista
+a.1768	Eric Hilton			0	artista
+a.1769	Erberto Carboni			0	artista
+a.1770	Erazo			0	artista
+a.1771	Enrique Castrocid			0	artista
+a.1772	Enrique Hernández			0	artista
+a.1773	Enrique Jaramillo			0	artista
+a.1774	Enrique Moret			0	artista
+a.1775	Enrique Toroja			0	artista
+a.1776	Enrique Wallenberg			0	artista
+a.1777	Eneias			0	artista
+a.1778	Emily Dubois			0	artista
+a.1779	Emilio Ambasz			0	artista
+a.1780	Emilio Tadini			0	artista
+a.1781	Emil Goetz			0	artista
+a.1782	Emil Schulthess			0	artista
+a.1783	Emil Spuhler			0	artista
+a.1784	Emel Meneses			0	artista
+a.1785	Elsa Gramcko			0	artista
+a.1786	Ellworth Kelly			0	artista
+a.1787	Ellen Dimsdale			0	artista
+a.1788	Ellen Martan			0	artista
+a.1789	Ellen Reiben			0	artista
+a.1790	Ella Maillard			0	artista
+a.1791	Elizabeth Aro			0	artista
+a.1792	Elizabeth Garrison			0	artista
+a.1793	Elizabeth Torres			0	artista
+a.1794	Elio Berhanyer			0	artista
+a.1795	Eliana Pérez			0	artista
+a.1796	Elena Mogollón			0	artista
+a.1797	Eldzier Cortor			0	artista
+a.1798	Eladio Vélez			0	artista
+a.1799	El Lissitzky			0	artista
+a.1800	Efraín Cardenas			0	artista
+a.1801	Efraín García			0	artista
+a.1802	Efraín Plested			0	artista
+a.1803	Eegyvudluk			0	artista
+a.1804	Edward  Ruscha			0	artista
+a.1805	Edward Penfield			0	artista
+a.1806	Edurdo Paolozzi			0	artista
+a.1807	Eduardo Arroyo			0	artista
+a.1808	Eduardo Cohen			0	artista
+a.1809	Eduardo Cruz			0	artista
+a.1810	Eduardo Esparza			0	artista
+a.1811	Eduardo Esperanza			0	artista
+a.1812	Eduardo Fornasari			0	artista
+a.1813	Eduardo Hernández			0	artista
+a.1814	Eduardo Hoffmann			0	artista
+a.1815	Eduardo Medici			0	artista
+a.1816	Eduardo Moll			0	artista
+a.1817	Eduardo Morán			0	artista
+a.1818	Eduardo Pradilla			0	artista
+a.1819	Eduardo Roca			0	artista
+a.1820	Eduardo Terrazas			0	artista
+a.1821	Eduard Spelterni			0	artista
+a.1822	Edmundo Aquino			0	artista
+a.1823	Edmundo Velarde			0	artista
+a.1824	Edmond-Edouard Boissonnas			0	artista
+a.1825	Edith Jiménez			0	artista
+a.1826	Edith Verihn			0	artista
+a.1827	Edilberto Sierra			0	artista
+a.1828	Edgard Pillet			0	artista
+a.1829	Édgar Plata			0	artista
+a.1830	Édgar Riveral			0	artista
+a.1831	Édgar Silva			0	artista
+a.1832	Ed Paschke			0	artista
+a.1833	Ed Ruscha			0	artista
+a.1834	Duván López			0	artista
+a.1835	Dusan Percinkov			0	artista
+a.1836	Durlet			0	artista
+a.1837	Doris Quarella			0	artista
+a.1838	Doris Rosonfeld			0	artista
+a.1839	Doris Salcedo			0	artista
+a.1840	Don Mabie			0	artista
+a.1841	Don Nice			0	artista
+a.1842	Dominique Mazeud			0	artista
+a.1843	Dominik Harborth			0	artista
+a.1844	Domingo López			0	artista
+a.1845	Dolf Preisig			0	artista
+a.1846	Diva Ramírez			0	artista
+a.1847	Diva Velásquez			0	artista
+a.1848	Dioscórides			0	artista
+a.1849	Dioscórides Pérez			0	artista
+a.1850	Dinora Doudtchitzki			0	artista
+a.1851	Dila			0	artista
+a.1852	Diego Barbosa			0	artista
+a.1853	Diego Buenahora			0	artista
+a.1854	Diego Mendoza			0	artista
+a.1855	Diego Pombo	1954	Colombiana	0	artista
+a.1856	Dianna Lasso			0	artista
+a.1857	Diane Flyr			0	artista
+a.1858	Diane Sheehan			0	artista
+a.1859	Diana Dowek			0	artista
+a.1860	Diana Monroy			0	artista
+a.1861	Di Rosa			0	artista
+a.1862	Derrel Morris			0	artista
+a.1863	Denry Torres			0	artista
+a.1864	Demián Flórez			0	artista
+a.1865	Demesio Antúnez			0	artista
+a.1866	Delcy Morelos	1967	Colombiana	0	artista
+a.1867	Del Lindo			0	artista
+a.1868	Debra Rapoport			0	artista
+a.1869	Deborah Aguado			0	artista
+a.1870	Debby Doolittle			0	artista
+a.1871	Dean Lindsay			0	artista
+a.1872	David Aronson			0	artista
+a.1873	David Blackwood			0	artista
+a.1874	David Consuegra			0	artista
+a.1875	David Dowler			0	artista
+a.1876	David Hammons			0	artista
+a.1877	David Hare			0	artista
+a.1878	David Hockney			0	artista
+a.1879	David Laplantz			0	artista
+a.1880	David Tisdale			0	artista
+a.1881	David Urso			0	artista
+a.1882	David Walsh			0	artista
+a.1883	Darío Jiménez			0	artista
+a.1884	Darío Sierra			0	artista
+a.1885	Darío Suro			0	artista
+a.1886	Darío Villalba			0	artista
+a.1887	Darel Valenca			0	artista
+a.1888	Darel Valentado			0	artista
+a.1889	Daniele Fuller			0	artista
+a.1890	Daniel Angulo			0	artista
+a.1891	Daniel Fleckenstein			0	artista
+a.1892	Daniel Maigné			0	artista
+a.1893	Daniel Osorio			0	artista
+a.1894	Daniel Scheimberg			0	artista
+a.1895	Daniel Vittet			0	artista
+a.1896	Dana Atchley			0	artista
+a.1897	Dan Quest			0	artista
+a.1898	Dan Rizzie			0	artista
+a.1899	Damaso Ogaz			0	artista
+a.1900	Dalia  Cugat			0	artista
+a.1901	Dagoberto Marcelo			0	artista
+a.1902	Cynthia Schira			0	artista
+a.1903	Cuando Bermúdez			0	artista
+a.1904	Cristian Staub			0	artista
+a.1905	Costa Leite			0	artista
+a.1906	Consuelo Barbosa			0	artista
+a.1907	Consuelo Lago			0	artista
+a.1908	Constanza Aguirre			0	artista
+a.1909	Constanza Medina			0	artista
+a.1910	Constantito Nivola			0	artista
+a.1911	Conrad			0	artista
+a.1912	Connie Utterbach			0	artista
+a.1913	Conchetto Pozzati			0	artista
+a.1914	Collin-Thibault			0	artista
+a.1915	Clorindo Testa			0	artista
+a.1916	Clinton Adams			0	artista
+a.1917	Clifford Ellis			0	artista
+a.1918	Clever Machado			0	artista
+a.1919	Clemencia Echeverri			0	artista
+a.1920	Clemencia Lucena			0	artista
+a.1921	Clayton Pond			0	artista
+a.1922	Claudio Arango			0	artista
+a.1923	Claudio Colucci			0	artista
+a.1924	Claudio Juárez			0	artista
+a.1925	Claudio Tozzi			0	artista
+a.1926	Claudia Arango			0	artista
+a.1927	Claudia Ebling			0	artista
+a.1928	Claudia Gil			0	artista
+a.1929	Claudia Hakim			0	artista
+a.1930	Claudia Hernández			0	artista
+a.1931	Claudia Ortiz			0	artista
+a.1932	Claudia Sandoval			0	artista
+a.1933	Claudia Victoria	1959	Colombiana	0	artista
+a.1934	Claude Dieterich			0	artista
+a.1935	Claude Sandoz			0	artista
+a.1936	Claude Tousignant			0	artista
+a.1937	Clauco Rodrigues			0	artista
+a.1938	Clark Richard			0	artista
+a.1939	Clare Romano			0	artista
+a.1940	Clara Hurtado			0	artista
+a.1941	Clara Piedrahita			0	artista
+a.1942	Claire Doebeli			0	artista
+a.1943	Ciro Palacios			0	artista
+a.1944	Cinda Sparling			0	artista
+a.1945	Christo			0	artista
+a.1946	Christian Vogt			0	artista
+a.1947	Charles-André Habib			0	artista
+a.1948	Charles Coiner			0	artista
+a.1949	Charles Durheim			0	artista
+a.1950	Charles Klabunde			0	artista
+a.1951	Charles White			0	artista
+a.1952	César García			0	artista
+a.1953	César Leal			0	artista
+a.1954	César Padilla			0	artista
+a.1955	César Paternosto			0	artista
+a.1956	Ceri Richards			0	artista
+a.1957	Celia Birbragher			0	artista
+a.1958	Cecilia Mejía			0	artista
+a.1959	Cecilia Porras			0	artista
+a.1960	Cecilia Silva			0	artista
+a.1961	Ceballos			0	artista
+a.1962	Cathy Berse			0	artista
+a.1963	Catalina Parra			0	artista
+a.1964	Carolina Franco			0	artista
+a.1965	Carolina Llano			0	artista
+a.1966	Carole Ceborowski			0	artista
+a.1967	Cárol Reina			0	artista
+a.1968	Carmenza Ángel			0	artista
+a.1969	Carmenza Estrada			0	artista
+a.1970	Carmen Espinosa			0	artista
+a.1971	Carmen Mazariegos			0	artista
+a.1972	Carmen Rey			0	artista
+a.1973	Carmelo Carra			0	artista
+a.1974	Carmela Gross			0	artista
+a.1975	Carlota Bentham			0	artista
+a.1976	Carlos Altamirano			0	artista
+a.1977	Carlos Avendaño			0	artista
+a.1978	Carlos Blanco	1961	Colombiana	0	artista
+a.1979	Carlos Caicedo			0	artista
+a.1980	Carlos Cañas			0	artista
+a.1981	Carlos Capelán			0	artista
+a.1982	Carlos Contramaestre			0	artista
+a.1983	Carlos Dávila			0	artista
+a.1984	Carlos Delgado			0	artista
+a.1985	Carlos Duque			0	artista
+a.1986	Carlos Echeverry			0	artista
+a.1987	Carlos Gallardo			0	artista
+a.1988	Carlos Gorriarena			0	artista
+a.1989	Carlos Irrizarry			0	artista
+a.1990	Carlos Laos-Brache			0	artista
+a.1991	Carlos Leppe			0	artista
+a.1992	Carlos Martins			0	artista
+a.1993	Carlos Maturana			0	artista
+a.1994	Carlos Pinilla			0	artista
+a.1995	Carlos Poveda			0	artista
+a.1996	Carlos Quintana			0	artista
+a.1997	Carlos Ruiz			0	artista
+a.1998	Carlos Sessano			0	artista
+a.1999	Carlos Summers	1925	Norteamericano	0	artista
+a.2000	Carlos Vergara			0	artista
+a.2001	Carlos Zúñiga			0	artista
+a.2002	Carl-August Koch			0	artista
+a.2003	Candida Hofer			0	artista
+a.2004	Candid Lang			0	artista
+a.2005	Candace Loheed			0	artista
+a.2006	Camilo Lleras			0	artista
+a.2007	Camilo Pineda			0	artista
+a.2008	Camille Billops			0	artista
+a.2009	Bruno Barbey			0	artista
+a.2010	Bruno Bruni			0	artista
+a.2011	Bruno Munari			0	artista
+a.2012	Bruetschy			0	artista
+a.2013	Bruce Beck			0	artista
+a.2014	Bruce McCombs			0	artista
+a.2015	Bruce Metcalf			0	artista
+a.2016	Brigid O´Hanrahan			0	artista
+a.2017	Brent Kington			0	artista
+a.2018	Brassai			0	artista
+a.2019	Boro			0	artista
+a.2020	Boris Jesih			0	artista
+a.2021	Boo Poulin			0	artista
+a.2022	Bobert McBryde			0	artista
+a.2023	Bob Natalini			0	artista
+a.2024	Bjorn Lindroos			0	artista
+a.2025	Binicio Horta			0	artista
+a.2026	Billy Escobar			0	artista
+a.2027	Bill Harris			0	artista
+a.2028	Bignia Corradini			0	artista
+a.2029	Bhakti Ziek			0	artista
+a.2030	Betty Goodwin			0	artista
+a.2031	Bertrand			0	artista
+a.2032	Bernhard Moosbrugger			0	artista
+a.2033	Bernd Becher			0	artista
+a.2034	Bernd Volkle			0	artista
+a.2035	Bernardo Krasnianski			0	artista
+a.2036	Bernardo Ortiz			0	artista
+a.2037	Bernard Dreyfus			0	artista
+a.2038	Bernard Meadows			0	artista
+a.2039	Bernard Schultze			0	artista
+a.2040	Bernanrdo Salcedo			0	artista
+a.2041	Bernal Ponce			0	artista
+a.2042	Bernado Salcedo			0	artista
+a.2043	Benjamín Farbiarz			0	artista
+a.2044	Benjamín Villegas			0	artista
+a.2045	Benito Rojo			0	artista
+a.2046	Benhur Sánchez			0	artista
+a.2047	Ben			0	artista
+a.2048	Ben Sakoguchi			0	artista
+a.2049	Ben Shahn			0	artista
+a.2050	Beltrán Obregón	1964	Española	0	artista
+a.2051	Belle Kuhn			0	artista
+a.2052	Beggardtaff Brothers			0	artista
+a.2053	Beatriz Echeverry			0	artista
+a.2054	Beatriz Grau	1965	Venezolana	0	artista
+a.2055	Beatriz Jaramillo			0	artista
+a.2056	Beatriz Montana			0	artista
+a.2057	Beatriz Torres			0	artista
+a.2058	Bass Pression			0	artista
+a.2059	Barbara Hepworth			0	artista
+a.2060	Barbara Jones			0	artista
+a.2061	Balthasar Burkhard			0	artista
+a.2062	B.P.			0	artista
+a.2063	Axel Knopp			0	artista
+a.2064	Aurora Brown			0	artista
+a.2065	Astrid Campo	1962	Colombiana	0	artista
+a.2066	Asdrúbal Medina			0	artista
+a.2067	Arturo Aguilar			0	artista
+a.2068	Art Kane			0	artista
+a.2069	Art Rongger			0	artista
+a.2070	Arquiestudio			0	artista
+a.2071	Arnold Belkin			0	artista
+a.2072	Arnold Leissler			0	artista
+a.2073	Arnold Saks			0	artista
+a.2074	Arnal Ballester			0	artista
+a.2075	Armleder			0	artista
+a.2076	Armando Montoya			0	artista
+a.2077	Armando Morales			0	artista
+a.2078	Armando Rearte			0	artista
+a.2079	Armando Rosales			0	artista
+a.2080	Armando Villegas			0	artista
+a.2081	Arline Fisch			0	artista
+a.2082	Aristides Coen			0	artista
+a.2083	Aristides Mateos			0	artista
+a.2084	Argemiro Vélez			0	artista
+a.2085	Arbey Arce			0	artista
+a.2086	Antonio Amaral			0	artista
+a.2087	Antonio Lazo			0	artista
+a.2088	Antonio Pérez			0	artista
+a.2089	Antonio Ramírez			0	artista
+a.2090	Antonio Varela			0	artista
+a.2091	Antonieta Zacarelli			0	artista
+a.2092	Anton Bruhin			0	artista
+a.2093	Annemarie Meier			0	artista
+a.2094	Annelies Feige			0	artista
+a.2095	Ann Wilson			0	artista
+a.2096	Anita Durán			0	artista
+a.2097	Aníbal Villacís			0	artista
+a.2098	Angélica Caporaso			0	artista
+a.2099	Ángela Echeverri			0	artista
+a.2100	Ángel Becassino			0	artista
+a.2101	Ángel Reyes			0	artista
+a.2102	Andrew Garn			0	artista
+a.2103	Andrés Fresneda			0	artista
+a.2104	Andrés Villa			0	artista
+a.2105	Andréas Aas			0	artista
+a.2106	Andreas Wolfensberger			0	artista
+a.2107	Andrea Gursky			0	artista
+a.2108	Andrea Valencia	1973	Colombiana	0	artista
+a.2109	Andre Derain			0	artista
+a.2110	Ana Eckell			0	artista
+a.2111	Amy Davison			0	artista
+a.2112	Amparo Restrepo			0	artista
+a.2113	Américo Castilla			0	artista
+a.2114	Amelia Cajigas			0	artista
+a.2115	Amelia Peláez			0	artista
+a.2116	Álvaron Sierra			0	artista
+a.2117	Álvaro Carmenes			0	artista
+a.2118	Álvaro Díaz			0	artista
+a.2119	Álvaro Gómez Campuzano			0	artista
+a.2120	Álvaro Henao			0	artista
+a.2121	Álvaro Herazo			0	artista
+a.2122	Álvaro Medina			0	artista
+a.2123	Álvaro Ricardo Herrera	1974	Colombiana	0	artista
+a.2124	Álvaro Sánchez			0	artista
+a.2125	Álvaro Sotillo			0	artista
+a.2126	Alselmo Carrera Rojas			0	artista
+a.2127	Alredo Sosabravo			0	artista
+a.2128	Alphons-María Mucha			0	artista
+a.2129	Aloysio Magalhaes			0	artista
+a.2130	Alonso Ocampo			0	artista
+a.2131	Alonso Quijano			0	artista
+a.2132	Aloísio Magalhaes			0	artista
+a.2133	Alo Zanetta			0	artista
+a.2134	Alnfonso Quijano			0	artista
+a.2135	Allin Braund			0	artista
+a.2136	Allan Edmunds			0	artista
+a.2137	Alirio Rodríguez			0	artista
+a.2138	Alipio Jaramillo			0	artista
+a.2139	Alicia Carletti			0	artista
+a.2140	Alicia Tafur			0	artista
+a.2141	Alicia Vega			0	artista
+a.2142	Alice H. Klein			0	artista
+a.2143	Alfredo da Silva			0	artista
+a.2144	Alfredo de Vicenzo			0	artista
+a.2145	Alfredo Gamonal			0	artista
+a.2146	Alfredo González Rostgaard			0	artista
+a.2147	Alfredo Izquierdo			0	artista
+a.2148	Alfredo López			0	artista
+a.2149	Alfredo Núñez Booth			0	artista
+a.2150	Alfredo Prior			0	artista
+a.2151	Alfredo Sosabravo			0	artista
+a.2152	Alfredo Vélez			0	artista
+a.2153	Alfred Otto Wolfgang Schulze			0	artista
+a.2154	Alfonso Álvarez			0	artista
+a.2155	Alfonso Fraile			0	artista
+a.2156	Alfonso Suárez			0	artista
+a.2157	Alfonso Vinasco			0	artista
+a.2158	Alexis Tricoire			0	artista
+a.2159	Alexandre Wollner			0	artista
+a.2160	Alexandra Rodríguez			0	artista
+a.2161	Alexander Wollner			0	artista
+a.2162	Alex Hutte			0	artista
+a.2163	Alex Janvier			0	artista
+a.2164	Alex Silber			0	artista
+a.2165	Alekos			0	artista
+a.2166	Alejandro Ardila			0	artista
+a.2167	Alejandro Colunga			0	artista
+a.2168	Alejandro Gutiérrez			0	artista
+a.2169	Alejandro Hernández			0	artista
+a.2170	Alejandro Miranda			0	artista
+a.2171	Alejandro Nieto			0	artista
+a.2172	Alejandro Puente			0	artista
+a.2173	Aldo Soler			0	artista
+a.2174	Albino Fernández			0	artista
+a.2175	Alberto Baraya	1968	Colombiana	0	artista
+a.2176	Alberto Betancourt			0	artista
+a.2177	Alberto Cedrón			0	artista
+a.2178	Alberto Gómez Cabal			0	artista
+a.2179	Alberto Iriarte			0	artista
+a.2180	Alberto Saldarriaga			0	artista
+a.2181	Alberto Sierra Maya			0	artista
+a.2182	Alberto Soto			0	artista
+a.2183	Alberto Uribe			0	artista
+a.2184	Albert Rafols Casamada			0	artista
+a.2185	Alberola			0	artista
+a.2186	Albeiro Sarria	1966	Colombiana	0	artista
+a.2187	Alba Silva			0	artista
+a.2188	Alan Burton Thompson			0	artista
+a.2189	Alain Jacquet			0	artista
+a.2190	Aída Caraballo			0	artista
+a.2191	Agusto Rivera			0	artista
+a.2192	Agustín Alamán			0	artista
+a.2193	Agustín Drake			0	artista
+a.2194	Aguedo Alonso			0	artista
+a.2195	Agnes Denes			0	artista
+a.2196	Agim Salihu			0	artista
+a.2197	Adrien Gardere			0	artista
+a.2198	Adriana Verejao			0	artista
+a.2199	Adolfo Cifuentes			0	artista
+a.2200	Adolf Huppi			0	artista
+a.2201	Adigio Benítez			0	artista
+a.2202	Adam Jorg			0	artista
+a.2203	Adalberto Jiménez			0	artista
+a.2204	Ada Balcacer			0	artista
+a.2205	Abraham Palatnik			0	artista
+a.2206	Abraham Rattner			0	artista
+a.2207	Abraam James			0	artista
+a.2208	Abdu Eljaiek			0	artista
+a.2209	A. M. Cassandre			0	artista
+a.2210	A33			0	artista
+a.2211	Ana Bella Geiger			0	artista
+a.2212	Ana Claudia Múnera	1966	Colombiana	0	artista
+a.2213	Ana de Durán			0	artista
+a.2214	Ana de Gamboa			0	artista
+a.2215	Ana Letycia Quadros			0	artista
+a.2216	Ana María Bonilla			0	artista
+a.2217	Ana María Gantes			0	artista
+a.2218	Ana María Millán			0	artista
+a.2219	Ana María Moncalvo			0	artista
+a.2220	Ana María Velasco			0	artista
+a.2221	Andrée Van Nuys			0	artista
+a.2222	Andrés de Santa María			0	artista
+a.2223	Ángela María Bena			0	artista
+a.2224	Ángelino Osvaldo Lauvivi			0	artista
+a.2225	Anita de Uribe			0	artista
+a.2226	Anka Buric-Djurdjeva			0	artista
+a.2227	Anna María Maiolino			0	artista
+a.2228	Anna Nella Greiger			0	artista
+a.2229	Antonio Enrique Amaral			0	artista
+a.2230	Antonio Ponce García			0	artista
+a.2231	Antonio Torres Martino			0	artista
+a.2232	Arlindo Daibert Amaral			0	artista
+a.2233	Auguste de Jongh			0	artista
+a.2234	Barry Ian Laughlin			0	artista
+a.2235	Betty Len Lau			0	artista
+a.2236	Billy Al Bengstons			0	artista
+a.2237	Boris Marlon Galvis			0	artista
+a.2238	Boris Zaplatil			0	artista
+a.2239	Carlos Alberto Caicedo			0	artista
+a.2240	Carlos Alberto González			0	artista
+a.2241	Carlos Alberto Peters			0	artista
+a.2242	Carlos Andrés Cruz			0	artista
+a.2243	Carlos Cruz Boix			0	artista
+a.2244	Carlos Eduardo Santa			0	artista
+a.2245	Carlos Enrique Hoyos			0	artista
+a.2246	Carlos Evandro Jardim			0	artista
+a.2247	Carlos Fernando Gómez			0	artista
+a.2248	Carlos Fernando Quintero	1968	Colombiana	0	artista
+a.2249	Carlos José Alfonzo			0	artista
+a.2250	Carmen Hoyos Gomez			0	artista
+a.2251	Carol Shannon Hsu			0	artista
+a.2252	Caroline M Byard			0	artista
+a.2253	Charmion Von Weigand			0	artista
+a.2254	Chasper Otto Melcher			0	artista
+a.2255	Chen Chi Kwan			0	artista
+a.2256	Christian de Portzamparc			0	artista
+a.2257	Clara Ines Palau			0	artista
+a.2258	Claudia Patricia Sarria			0	artista
+a.2259	Daniel Romero Lozano			0	artista
+a.2260	Danilo Di Pietri			0	artista
+a.2261	Delia del Carril			0	artista
+a.2262	Diana Galindo Giraldo			0	artista
+a.2263	Diana Marcela Camelo			0	artista
+a.2264	Diego Fernando Morales			0	artista
+a.2265	Dino Di Rosa			0	artista
+a.2266	Domingo Moreno Otero			0	artista
+a.2267	E. McKhight Kauffer			0	artista
+a.2268	Edouard de Jongh			0	artista
+a.2269	Eduardo Martínez Bachs			0	artista
+a.2270	Eduardo Muñoz Bachs			0	artista
+a.2271	Edward de Large			0	artista
+a.2272	Roberto Rosario			0	artista
+a.2273	Elda Di Malio			0	artista
+a.2274	Elisa Elvira Zuloaga			0	artista
+a.2275	Enrique Pérez Triana			0	artista
+a.2276	Ernest Ludwing Kirchner			0	artista
+a.2277	Ernesto García Peña			0	artista
+a.2278	Ernesto González Puig			0	artista
+a.2279	Erwin Guillermo de León			0	artista
+a.2280	Fabio Antonio Ramírez			0	artista
+a.2281	Fernando Martínez Orozco			0	artista
+a.2282	Fernando Martínez Sanabria			0	artista
+a.2283	Florencia de Amesti			0	artista
+a.2284	Francis de Jongh			0	artista
+a.2285	Francisco Antonio Cano			0	artista
+a.2286	Francisco Antonio Roda Zea			0	artista
+a.2287	Francisco de Goya			0	artista
+a.2288	Francisco J. Gámez			0	artista
+a.2289	Francisco Javier Smythe			0	artista
+a.2290	Gabriel Fernández Ledesma			0	artista
+a.2291	Gabriel Suárez Bayona			0	artista
+a.2292	Gabrio Tosti Di Valminuta			0	artista
+a.2293	Georg Karl Pfahier			0	artista
+a.2294	Gerardo González Álvarez			0	artista
+a.2295	Giorgio de Chirico			0	artista
+a.2296	Giovanna De Sanctis			0	artista
+a.2297	Gloria Cecilia Matallana			0	artista
+a.2298	Gloria de Arellano			0	artista
+a.2299	Gloria Estela Arriaga			0	artista
+a.2300	Gloria Isabel Arango			0	artista
+a.2301	González Ruiz & Asoc.			0	artista
+a.2302	Graciela Samper de Bermúdez			0	artista
+a.2303	Gregorio Vásquez de Arce			0	artista
+a.2304	Guillermo Pérez Villalta			0	artista
+a.2305	Gustavo Adolfo González			0	artista
+a.2306	Gustavo Gómez Casallas			0	artista
+a.2307	Gustavo López Armentía			0	artista
+a.2308	Héctor Contte Pau			0	artista
+a.2309	Héctor Fabio Oviedo			0	artista
+a.2310	Héctor Martínez Cala			0	artista
+a.2311	Heloisa María Pini			0	artista
+a.2312	Henrique Leo Fuhro			0	artista
+a.2313	Henry Saúl Gil			0	artista
+a.2314	Hermana Mary Corita			0	artista
+a.2315	Hernán Darío Correa			0	artista
+a.2316	Hernán Darío Santos			0	artista
+a.2317	Hiroko Stato Pijanowski			0	artista
+a.2318	Hosrt Egon Kalinowski			0	artista
+a.2319	Hugo Andrade Londoño			0	artista
+a.2320	Hugo de Marziani			0	artista
+a.2321	Isabel Cuervo Casabianca			0	artista
+a.2322	Iván Darío Roldán			0	artista
+a.2323	J. Wolfgang Beck			0	artista
+a.2324	Jaime López Correa			0	artista
+a.2325	James E. Newton			0	artista
+a.2326	Jan Van Leeuwen			0	artista
+a.2327	Jaune Quick-To-See Smith			0	artista
+a.2328	Javier de María Campos			0	artista
+a.2329	Javier Iván Barrios			0	artista
+a.2330	Jean Rene Jerome			0	artista
+a.2331	Jesus María Espinoza			0	artista
+a.2332	Jesús Ruiz Durán			0	artista
+a.2333	Joan Fraerman Binkley			0	artista
+a.2334	Joan Hernández Pijuán			0	artista
+a.2335	Joao Camara Filho			0	artista
+a.2336	Joao de Barros			0	artista
+a.2337	Joao Roberto Nascimento			0	artista
+a.2338	Johann Baptiste Isenring			0	artista
+a.2339	John Edward González	1969	Colombiana	0	artista
+a.2340	John Freddy Cardona	1975	Colombiana	0	artista
+a.2341	John Michael Armleder			0	artista
+a.2342	John Thomas Biggers			0	artista
+a.2343	Joke Van Ommen			0	artista
+a.2344	Jorge Elías Triana			0	artista
+a.2345	Jorge Enrique Madriñán			0	artista
+a.2346	Jorge Luis de la Vega			0	artista
+a.2347	Jorge Mario Gómez			0	artista
+a.2348	Jorge Mario Múnera			0	artista
+a.2349	José Alejandro Restrepo			0	artista
+a.2350	José Antonio Díaz			0	artista
+a.2351	José Antonio Franco			0	artista
+a.2352	José Antonio Quinteros			0	artista
+a.2353	José Antonio Torres			0	artista
+a.2354	José Clemente Rodríguez			0	artista
+a.2355	José Contino			0	artista
+a.2356	José de Rokha			0	artista
+a.2357	José Domingo Rodríguez			0	artista
+a.2358	José Fernando García			0	artista
+a.2359	José Gómez Fresquet			0	artista
+a.2360	José Luis de Figueroa			0	artista
+a.2361	José Luis Posada			0	artista
+a.2362	José Luis Rochet			0	artista
+a.2363	José Luis Vicent			0	artista
+a.2364	José Luis Yturralde			0	artista
+a.2365	José Manuel Groot			0	artista
+a.2366	José María Vidal			0	artista
+a.2367	José Monjales Soler			0	artista
+a.2368	José Nazario Clároz			0	artista
+a.2369	José Orlando Salgado			0	artista
+a.2370	José R. Alicea			0	artista
+a.2371	Joseph Ross Jr.			0	artista
+a.2372	Juan Alberto Bordalejo			0	artista
+a.2373	Juan Andrés Posada			0	artista
+a.2374	Juan Blanco López			0	artista
+a.2375	Juan Carlos Cuadros			0	artista
+a.2376	Juan Carlos Franco			0	artista
+a.2377	Juan Carlos Gómez			0	artista
+a.2378	Juan Carlos Rodríguez			0	artista
+a.2379	Juan Cristóbal Aguilar			0	artista
+a.2380	Juan David Giraldo			0	artista
+a.2381	Juan David Medina	1975	Colombiana	0	artista
+a.2382	Juan Fernando Ordóñez			0	artista
+a.2383	Juan Gómez Quiroz			0	artista
+a.2384	Juan Manuel Caneja			0	artista
+a.2385	Juan Manuel Colombia			0	artista
+a.2386	Juan Manuel Salcedo			0	artista
+a.2387	Juan Miguel Figueroa			0	artista
+a.2388	Juan Pablo Fajardo			0	artista
+a.2389	Juan Pablo Renzi			0	artista
+a.2390	Juan Ramón Giraldo			0	artista
+a.2391	Juan Ramón Velásquez			0	artista
+a.2392	Juan Vázquez Martin			0	artista
+a.2393	Julia de Quintero			0	artista
+a.2394	Julián Eduardo Posada			0	artista
+a.2395	Julio Abel Sánchez			0	artista
+a.2396	Julio Micheli Lebrón			0	artista
+a.2397	Keith Alan Lewis			0	artista
+a.2398	Klaus Peter Brehmer			0	artista
+a.2399	Lambert María Wintersberger			0	artista
+a.2400	Lee N. Smith III			0	artista
+a.2401	Lino Eneas Spilinbergo			0	artista
+a.2402	Luis Alberto Acuña			0	artista
+a.2403	Luis Eduardo Garzón Flórez			0	artista
+a.2404	Luis Eduardo Mondragón			0	artista
+a.2405	Luis Eduardo Ricaurte			0	artista
+a.2406	Luis F. Benedit			0	artista
+a.2407	Luis F. Noé			0	artista
+a.2408	Luis Fernando García			0	artista
+a.2409	Luis Fernando Mejía			0	artista
+a.2410	Luis Fernando Puerta			0	artista
+a.2411	Luis Fernando Rodríguez			0	artista
+a.2412	Luis Fernando Sepúlveda			0	artista
+a.2413	Luis Fernando Uribe			0	artista
+a.2414	Luis Fernando Valencia			0	artista
+a.2415	Luis J. Gutiérrez			0	artista
+a.2416	Luis Miguel Valdés			0	artista
+a.2417	Luis Núñez Borda			0	artista
+a.2418	Luiz Aquila da Rocha			0	artista
+a.2419	Luz Ángela Echeverri			0	artista
+a.2420	Lydia Mabel Rubli			0	artista
+a.2421	Maia Lúcia Luz			0	artista
+a.2422	Manuel Cardona Bolaños			0	artista
+a.2423	Manuel de los Ríos			0	artista
+a.2424	Manuel Guillermo Cantor			0	artista
+a.2425	Manuel López Oliva			0	artista
+a.2426	Manuel Mora Molina			0	artista
+a.2427	Marc David Levine			0	artista
+a.2428	Márcia Barrozo do Amaral			0	artista
+a.2429	Margarita Lozano Ortiz			0	artista
+a.2430	María Ángela Guzman			0	artista
+a.2431	María Angélica Mejía			0	artista
+a.2432	María Cristina Aragón			0	artista
+a.2433	María Cristina Franco			0	artista
+a.2434	María Cristina Gómez			0	artista
+a.2435	María Cristina Hernández			0	artista
+a.2436	María Cristina Rodríguez			0	artista
+a.2437	María Cristina Silva			0	artista
+a.2438	María del Carmen Espinoza	1971	Colombiana	0	artista
+a.2439	María del Pilar Rodríguez			0	artista
+a.2440	María do Carmo Secco			0	artista
+a.2441	María Dolores Garcés			0	artista
+a.2442	María Elena Bernal			0	artista
+a.2443	María Elena Molinari			0	artista
+a.2444	María Eugenia Duque			0	artista
+a.2445	María Eugenia Somoza			0	artista
+a.2446	María Fernanda Cardoso			0	artista
+a.2447	María Gabriela Borrero			0	artista
+a.2448	María Isabel Rueda	1972	Colombiana	0	artista
+a.2449	María Luisa Andino			0	artista
+a.2450	María Luisa Pacheco			0	artista
+a.2451	María Mercedes Ángel			0	artista
+a.2452	María Teresa Cano	1960	Colombiana	0	artista
+a.2453	María Teresa de Patiño			0	artista
+a.2454	María Teresa Pardo			0	artista
+a.2455	María Tomaselli Cirne			0	artista
+a.2456	María Tomaselli Cirne Lima			0	artista
+a.2457	María Victoria Durán			0	artista
+a.2458	María Vitoria Porras			0	artista
+a.2459	Maríana de Prieto			0	artista
+a.2460	Maríanne Eigenheer			0	artista
+a.2461	Marie Jose Gardere			0	artista
+a.2462	Marino Santa María			0	artista
+a.2463	Marry Lee Hu			0	artista
+a.2464	Martha Elena Vélez			0	artista
+a.2465	Maruja de Rengifo			0	artista
+a.2466	Mary Ann Jordan			0	artista
+a.2467	Mary Ann Scherr			0	artista
+a.2468	Mary Anne Vaughan			0	artista
+a.2469	Max Eugen Mathys			0	artista
+a.2470	Mercedes Amelia Escobar			0	artista
+a.2471	Michel Vandame Blond			0	artista
+a.2472	Miguel Ángel Espinoza			0	artista
+a.2473	Miguel Antonio Castillo			0	artista
+a.2474	Miguel Ángel Cardenas	1934	Colombia/Holanda	0	artista
+a.2475	Miguel Torres Méndez			0	artista
+a.2476	Modesto Braulio Flórez			0	artista
+a.2477	Mohan B. Samant			0	artista
+a.2478	Monica de Rhodes			0	artista
+a.2479	Noemí de Greiff			0	artista
+a.2480	Norman La Liberte			0	artista
+a.2481	Olga de Amaral	1936	Colombiana	0	artista
+a.2482	Olga Lucia Garcia	1964	Colombiana	0	artista
+a.2483	Óscar Andrés Becerra			0	artista
+a.2484	Óscar Dante Larroca			0	artista
+a.2485	Pat Martin Bates			0	artista
+a.2486	Patricia Ángel de Greiff			0	artista
+a.2487	Patricio Reig Isaacs			0	artista
+a.2488	Paulo Guilherme Paes			0	artista
+a.2489	Paulo Roberto Leal			0	artista
+a.2490	Paulo Tibirica de Andrade			0	artista
+a.2491	Pedro Millar Mardones			0	artista
+a.2492	Peter W. Milton			0	artista
+a.2493	Piry de Patiño			0	artista
+a.2494	Pucci de Rossi			0	artista
+a.2495	Quesniaux			0	artista
+a.2496	Rafael Rivera Rosa			0	artista
+a.2497	Raúl Santos Serpa			0	artista
+a.2498	Raúl Sotelo Sotomayor			0	artista
+a.2499	René Azcuy Cárdenas			0	artista
+a.2500	René de la Nuez			0	artista
+a.2501	René Valdes Cedeño			0	artista
+a.2502	Ricardo Raúl Ceville			0	artista
+a.2503	Richard P. Lohse			0	artista
+a.2504	Robert Lee Morris			0	artista
+a.2505	Robert Wayne Eastcott			0	artista
+a.2506	Rodrigo Valencia Quijano			0	artista
+a.2507	Rogelio López Marín			0	artista
+a.2508	Rogelio Rodríguez Cobas			0	artista
+a.2509	Roger von Gunten			0	artista
+a.2510	Rolando López de Uribe			0	artista
+a.2511	Rómulo Polo Flórez			0	artista
+a.2512	Rosa de Viterbo			0	artista
+a.2513	Roy De Forest			0	artista
+a.2514	Rubem Campos Grillo			0	artista
+a.2515	Rusell K. Leong			0	artista
+a.2516	Sandra de González			0	artista
+a.2517	Sandra Parmer Zilker			0	artista
+a.2518	Sarah Valerie Gersovitz			0	artista
+a.2519	Sebastían Antonio Matta			0	artista
+a.2520	Sergio de Campos Mello			0	artista
+a.2521	Sergio González Tornero			0	artista
+a.2522	Sergio Trujillo Dávila			0	artista
+a.2523	Sergio Trujillo Jaramillo			0	artista
+a.2524	Sergio Trujillo Magnenat			0	artista
+a.2525	Setephan Charles Allendort			0	artista
+a.2526	Sheilla de Breteville			0	artista
+a.2527	Sherry De Leon			0	artista
+a.2528	Sonia de Zúñiga			0	artista
+a.2529	Stella Bernal de Parra			0	artista
+a.2530	Stephanie E. Pogue			0	artista
+a.2531	Susan Webster Lowry			0	artista
+a.2532	Teófilo do Espiritu Santo			0	artista
+a.2533	Tsai Wen Yin			0	artista
+a.2534	Urs Joaquín Schmid			0	artista
+a.2535	Uzuelle de Morais			0	artista
+a.2536	Vera Chaves Barcellos			0	artista
+a.2537	W. Lee Savage			0	artista
+a.2538	Walter de María			0	artista
+a.2539	Washigton Eduardo Iza			0	artista
+a.2540	William John Laing			0	artista
+a.2541	Zaida del Río			0	artista
+a.2542	Zipacná de León			0	artista
+a.2543	Francisco Icaza			0	artista
+a.2549	Luis Eduardo Tobón			0	artista
+a.2550	María Sol Barón			0	artista
+a.2551	Camilo Ordóñez Robayo			0	artista
+a.2552	3 Libras			0	artista
+a.2553	Alex Rodríguez			0	artista
+a.2554	Abraham Games			0	artista
+a.2555	Aceneiba Sanches			0	artista
+a.2556	Adalberto  Ceballos			0	artista
+a.2557	Adele Röder			0	artista
+a.2558	Adolfo Riestra			0	artista
+a.2559	Adrián Gaitán			0	artista
+a.2560	Adriana Martínez			0	artista
+a.2561	Adriana Pérez			0	artista
+a.2562	Adriana Salazar			0	artista
+a.2563	Adriano Moreno			0	artista
+a.2564	Adrien Gardère			0	artista
+a.2565	Alberto Cogno			0	artista
+a.2566	Alberto De Michele			0	artista
+a.2567	Alberto Lezaca			0	artista
+a.2568	Alejandra Gutiérrez			0	artista
+a.2569	Alejandra Rincón			0	artista
+a.2570	Alejandro Mancera			0	artista
+a.2571	Alejandro Vasquez			0	artista
+a.2572	Alfonso Castillo			0	artista
+a.2573	Alfonso Mateus			0	artista
+a.2574	Allen Jones			0	artista
+a.2575	Almeida Gilberto			0	artista
+a.2576	Almir Mavignier			0	artista
+a.2577	Alvaro Hurtado			0	artista
+a.2578	Alvaro Vanegas			0	artista
+a.2579	Ámbar Aboharb			0	artista
+a.2580	Amy Franceschini			0	artista
+a.2581	Ana María Villate			0	artista
+a.2582	Ana Salas			0	artista
+a.2583	Andrade C. V.			0	artista
+a.2584	André Parente			0	artista
+a.2585	Andrea Acosta			0	artista
+a.2586	Andrea Echeverri			0	artista
+a.2587	Andrea Rey			0	artista
+a.2588	Andrea Said Camargo			0	artista
+a.2589	Andreas Dress			0	artista
+a.2590	Andrés Felipe Uribe			0	artista
+a.2591	Ángel Beccassino			0	artista
+a.2592	Ángel Ricardo			0	artista
+a.2593	Angela Baena			0	artista
+a.2594	Ángela María Ramirez			0	artista
+a.2595	Angeles Fabri			0	artista
+a.2596	Angélica Castro			0	artista
+a.2597	Angélica María Ramírez			0	artista
+a.2598	Anna María Botero			0	artista
+a.2599	Annette Kelm			0	artista
+a.2600	Anónimo.			0	artista
+a.2601	Antje Majewski			0	artista
+a.2602	Antonio Roda			0	artista
+a.2603	Antonio Saggese			0	artista
+a.2604	Antonio Ungar			0	artista
+a.2605	Antonio Yemail			0	artista
+a.2606	Arley Fernando Fernández Ortiz			0	artista
+a.2607	Armin Hoffmann			0	artista
+a.2608	Armin Linke			0	artista
+a.2609	Arno Mohr			0	artista
+a.2610	Arno Rink			0	artista
+a.2611	Arturo Arcila Uribe			0	artista
+a.2612	Arturo García Bustos			0	artista
+a.2613	Aubrey Beardsley			0	artista
+a.2614	Avi Mograbi			0	artista
+a.2615	Bernard Cohen			0	artista
+a.2616	Bernhard Heisig			0	artista
+a.2617	Betsabé Romero			0	artista
+a.2618	Boada			0	artista
+a.2619	Boris Pérez			0	artista
+a.2620	Boris Viskin			0	artista
+a.2621	Breyner Huertas			0	artista
+a.2622	Bridget Riley			0	artista
+a.2623	Bruno Serralongue			0	artista
+a.2624	Bruno Zeppilli			0	artista
+a.2625	Bustamante			0	artista
+a.2626	Camila Echevarría y Michael Gavish			0	artista
+a.2627	Camila Rodríguez			0	artista
+a.2628	Camilo Aguilera			0	artista
+a.2629	Camilo Aguirre			0	artista
+a.2630	Camilo Restrepo			0	artista
+a.2631	Camilo Velásquez			0	artista
+a.2632	Carla Rippey			0	artista
+a.2633	Carlos Arturo Zuñiga			0	artista
+a.2634	Carlos Augusto Arcila Castillo			0	artista
+a.2635	Carlos Castro			0	artista
+a.2636	Carlos Fadon			0	artista
+a.2637	Carlos Jacanamijoy			0	artista
+a.2638	Carlos Motta			0	artista
+a.2639	Carlos Ortega			0	artista
+a.2640	Carlos Pineda			0	artista
+a.2641	Carlos Tamayo			0	artista
+a.2642	Carmen Sofia Reyes			0	artista
+a.2643	Carolina Ángel Idrobo			0	artista
+a.2644	Carolina Caicedo			0	artista
+a.2645	Carolina Ruiz			0	artista
+a.2646	Catalina Cardenas			0	artista
+a.2647	Catálina Toro			0	artista
+a.2648	Ceballo J.			0	artista
+a.2649	Cecile Hartmann			0	artista
+a.2650	César Del Valle			0	artista
+a.2651	César Torres			0	artista
+a.2652	Charlie Dubbe			0	artista
+a.2653	Cisco Jiménez			0	artista
+a.2654	Clarisse Hahn			0	artista
+a.2655	Clemencia Poveda			0	artista
+a.2656	Clemens von Wedemeyer			0	artista
+a.2657	Cluck Close			0	artista
+a.2658	Coco Fusco			0	artista
+a.2659	Coello F.			0	artista
+a.2660	Colectivo Autoart			0	artista
+a.2661	Colectivo Incinerante			0	artista
+a.2662	Colectivo LTTR			0	artista
+a.2663	Colectivo NN			0	artista
+a.2664	Colectivo Producciones Invisibles			0	artista
+a.2665	Colectivo Sector Reforma			0	artista
+a.2666	Colin Self			0	artista
+a.2667	Comando Libre S-II			0	artista
+a.2668	Cortéz G.			0	artista
+a.2669	Cristiam Fajardo			0	artista
+a.2670	Cynthia Capriata			0	artista
+a.2671	Cyprien Gaillard			0	artista
+a.2672	Danh Vo			0	artista
+a.2673	Dani Gal			0	artista
+a.2674	Daniel Escobar			0	artista
+a.2675	Danilo Di Preti			0	artista
+a.2676	Darel Valença			0	artista
+a.2677	Dash Shaw			0	artista
+a.2678	Dash/Lab			0	artista
+a.2679	David Morán			0	artista
+a.2680	Dayhana Muñoz			0	artista
+a.2681	Dayro Carrasquilla			0	artista
+a.2682	Delo Lindo			0	artista
+a.2683	Diana Cristina Flores Reina			0	artista
+a.2684	Diana Lasso			0	artista
+a.2685	Diana Saldarriaga			0	artista
+a.2686	Díaz R.			0	artista
+a.2687	Diego Hernández			0	artista
+a.2688	Diego León Hoyos			0	artista
+a.2689	Diego Morales			0	artista
+a.2690	Diego Sarmiento			0	artista
+a.2691	Dulce María Núñez			0	artista
+a.2692	E. Goemann			0	artista
+a.2693	E. McKnight Kauffer			0	artista
+a.2694	Edgar Álvarez			0	artista
+a.2695	Edinson Quiñones			0	artista
+a.2696	Eduardo Motato			0	artista
+a.2697	Eduardo Paolozzi			0	artista
+a.2698	Eduardo Terrazas & Lance Wyman			0	artista
+a.2699	Eduardo Tokeshi			0	artista
+a.2700	Edwin Monsalve			0	artista
+a.2701	Ejti Stih			0	artista
+a.2702	Ela Spalding			0	artista
+a.2703	Eleonora Carrington			0	artista
+a.2704	Elisa Gomez			0	artista
+a.2705	Emilia Uribe de Mejía			0	artista
+a.2706	Endara Joaquín			0	artista
+a.2707	Epifanio Garay			0	artista
+a.2708	Éricka Flórez			0	artista
+a.2709	Erik Nitsche			0	artista
+a.2710	Erling Ericsson			0	artista
+a.2711	Ernesto Bertani			0	artista
+a.2712	Ernesto Recuero			0	artista
+a.2713	Esteban López			0	artista
+a.2714	Esteban Peña			0	artista
+a.2715	Esteban Rivera			0	artista
+a.2716	Eva Vent			0	artista
+a.2717	Evandro Teixeira			0	artista
+a.2718	Evelyn Soto Gabino			0	artista
+a.2719	Eyder Wilson Ul Ascue			0	artista
+a.2720	F. H. K. Henrion			0	artista
+a.2721	Fabio Melecio Palacios			0	artista
+a.2722	Fabio Rodriguez Amaya			0	artista
+a.2723	Falko Behrendt			0	artista
+a.2724	Federico Guzmán			0	artista
+a.2725	Felipe Paz			0	artista
+a.2726	Fernando Casto Pacheco			0	artista
+a.2727	Fernando Olivella			0	artista
+a.2728	Fernando Pareja & Leidy Chávez			0	artista
+a.2729	Fernando Pertuz			0	artista
+a.2730	Fernando Salazar			0	artista
+a.2731	Fernell Franco			7	artista
+a.2732	Figueroa J.			0	artista
+a.2733	Francisco Bellorín			0	artista
+a.2734	Francisco Camacho			0	artista
+a.2735	Francisco J. Jaramillo			0	artista
+a.2736	Francisco Liu			0	artista
+a.2737	Francisco Ospina Bernal			0	artista
+a.2738	Francisco Rodon			0	artista
+a.2739	Francisco Todó			0	artista
+a.2740	Francisco Toquica			0	artista
+a.2741	François Bucher			0	artista
+a.2742	François Dolmetsch			0	artista
+a.2743	Freddy Barbosa			0	artista
+a.2744	Frederic Chastro			0	artista
+a.2745	Fredy Quinayas			0	artista
+a.2746	Fritz Cremer			0	artista
+a.2747	Fritz Seifert			0	artista
+a.2748	Froylán Ruiz			0	artista
+a.2749	Fundación dos mundos			0	artista
+a.2750	Future Farmers			0	artista
+a.2751	G. A. Garrrido			0	artista
+a.2752	Gabriel de la Mora			0	artista
+a.2753	Gabriel Ossa			0	artista
+a.2754	García Alex			0	artista
+a.2755	Gaston Ugalde			0	artista
+a.2756	Georges Braque			0	artista
+a.2757	Gertrudis Goldschmidt			0	artista
+a.2758	Gil Ibarra L.			0	artista
+a.2759	Gilberto Aceves Navarro			0	artista
+a.2760	Gilda Mantilla			0	artista
+a.2761	Giles Saussier			0	artista
+a.2762	Gillian Ayres			0	artista
+a.2763	Gilma Suárez			0	artista
+a.2764	Gina Arizpe			0	artista
+a.2765	Glauco Rodriguez			0	artista
+a.2766	Gloria Martinez			0	artista
+a.2767	Gómez de la Torre			0	artista
+a.2768	Gordon House			0	artista
+a.2769	Graciela Iturbode			0	artista
+a.2770	Gregorio Vázquez y Ceballos			0	artista
+a.2771	Grupo Nómada			0	artista
+a.2772	Guayasamin Oswaldo			0	artista
+a.2773	Guillermo Calzadilla			0	artista
+a.2774	Guillermo Gómez Peña			0	artista
+a.2775	Guilles Charalambos			0	artista
+a.2776	Gustav Henri Jossot			0	artista
+a.2777	Gustavo Niño			0	artista
+a.2778	Gustavo Toro			0	artista
+a.2779	Harold Cohen			0	artista
+a.2780	Harold Orlando Rodriguez			0	artista
+a.2781	Héctor de Anda			0	artista
+a.2782	Hector Ulloque			0	artista
+a.2783	Héctor Wiesner García			0	artista
+a.2784	Helmut Federle			0	artista
+a.2785	Henri de Toulouse-Lautrec			0	artista
+a.2786	Henrik Olesen			0	artista
+a.2787	Henry Salazar			0	artista
+a.2788	Herbert Leupin			0	artista
+a.2789	Herbert Sandberg			0	artista
+a.2790	Herlyng Ferla			0	artista
+a.2791	Hermann Yusty			0	artista
+a.2792	Hernán Barón			0	artista
+a.2793	Hernán Braum-Vega			0	artista
+a.2794	Hugo Denizart			0	artista
+a.2795	Humberto Junca			0	artista
+a.2796	Humberto Polar			0	artista
+a.2797	Ignacio Espla			0	artista
+a.2798	Ilva Posse de Gomez			0	artista
+a.2799	Imana Garrón			0	artista
+a.2800	Inés Gaitán			0	artista
+a.2801	Inu Waters			0	artista
+a.2802	Irene Balas			0	artista
+a.2803	Irene Fuga			0	artista
+a.2804	Irma Constanzo			0	artista
+a.2805	Isabel Moreno			0	artista
+a.2806	Isabella Suárez			0	artista
+a.2807	Isable de Obaldia			0	artista
+a.2808	Iván Argote			0	artista
+a.2809	Ivan Chermayeff & Thomas Geismar			0	artista
+a.2810	Iván Morales			0	artista
+a.2811	Iván Tovar			0	artista
+a.2812	Jaime Ávila Ferrer			0	artista
+a.2813	Jaime Romero			0	artista
+a.2814	Jairo Pinilla			0	artista
+a.2815	Jairo Téllez			0	artista
+a.2816	James Montgomery Flagg			0	artista
+a.2817	Jan Lenica			0	artista
+a.2818	Javier Arévalo			0	artista
+a.2819	Javier de la Garza			0	artista
+a.2820	Javier Humberto Cruz Góngora			0	artista
+a.2821	Javier Marín			0	artista
+a.2822	Javier Morales			0	artista
+a.2823	Jean Dubuffet			0	artista
+a.2824	Jean Luc Moulene			0	artista
+a.2825	Jean-Marc Bustamante			0	artista
+a.2826	Jennifer Allora			0	artista
+a.2827	Jennifer Peñaloza Dulcey			0	artista
+a.2828	Jenny Jaramillo			0	artista
+a.2829	Jesús Abad Colorado			0	artista
+a.2830	Jesús Urbieta			0	artista
+a.2831	Jhon Freddy Cardona			0	artista
+a.2832	Jim Pluk			0	artista
+a.2833	Jim Stoten			0	artista
+a.2834	Joachim Jansong			0	artista
+a.2835	Joachim John			0	artista
+a.2836	Joaquín Gutiérrez			0	artista
+a.2837	Joe Tilson			0	artista
+a.2838	Jonathan Zabriskie			0	artista
+a.2839	Joni B			0	artista
+a.2840	Jorge Caballero			0	artista
+a.2841	Jorge Echeverry			0	artista
+a.2842	Jorge Hernan González			0	artista
+a.2843	Jorge Julián Aristizabal			0	artista
+a.2844	Jorge Mora			0	artista
+a.2845	Jorge Paez			0	artista
+a.2846	Jorge R. Nuñez			0	artista
+a.2847	José Antonio Dorado			0	artista
+a.2848	José Antonio Quintero			0	artista
+a.2849	Jose Balmes			0	artista
+a.2850	José Chavéz Morado			0	artista
+a.2851	José Leonilson			0	artista
+a.2852	Jose Luis Cuevas			0	artista
+a.2853	José Reyes Meza			0	artista
+a.2854	Josefina de Hoyos			0	artista
+a.2855	Juan Andrés Posada Jaramillo			0	artista
+a.2856	Juan Carlos Distéfano & Rubén Fontana & Carlos Soler			0	artista
+a.2857	Juan David Velásquez			0	artista
+a.2858	Juan Fernando Herrán			0	artista
+a.2859	Juan Fernando Toro			0	artista
+a.2860	Juan Guillermo Restrepo			0	artista
+a.2861	Juan Guillermo Tamayo			0	artista
+a.2862	Juan Martín Rico			0	artista
+a.2863	Juan Pablo Marín			0	artista
+a.2864	Juan Pablo Ríos			0	artista
+a.2865	Juan Peláez			0	artista
+a.2866	Juan Raúl Hoyos			0	artista
+a.2867	Juan Zamora			0	artista
+a.2868	Juca Martins			0	artista
+a.2869	Judi Werthein			0	artista
+a.2870	Juergen Schieferdecker			0	artista
+a.2871	Jules Cheret			0	artista
+a.2872	Julián Aristizábal			0	artista
+a.2873	Juliana Guevara			0	artista
+a.2874	Juliano Ventura			0	artista
+a.2875	Julien Creuzet			0	artista
+a.2876	Jutta Koether			0	artista
+a.2877	Kabaret Machine			0	artista
+a.2878	Kara Walker			0	artista
+a.2879	Karl Gerstner			0	artista
+a.2880	Karl-Georg Hirsch			0	artista
+a.2881	Katherin Gómez			0	artista
+a.2882	Katia Maciel			0	artista
+a.2883	Kerstin Brätsch			0	artista
+a.2884	Kevin Mancera			0	artista
+a.2885	Kim Manresa			0	artista
+a.2886	Kingmann Eduardo			0	artista
+a.2887	Kristian Gavoille			0	artista
+a.2888	La Silueta			0	artista
+a.2889	La virgen del milagro producciones			0	artista
+a.2890	Laagencia			0	artista
+a.2891	Laboratorio artístico Chocó			0	artista
+a.2892	Las Malas Amistades			0	artista
+a.2893	Laura Lucía Peña Escobar			0	artista
+a.2894	Leandra Plaza			0	artista
+a.2895	Leo Lionni			0	artista
+a.2896	Leon Trujillo			0	artista
+a.2897	Leonardo Amador			0	artista
+a.2898	Leonardo López			0	artista
+a.2899	Leonor Alvarez			0	artista
+a.2900	Leonor Barrero de Garcia.			0	artista
+a.2901	Lester Beall			0	artista
+a.2902	Lilia Yepes			0	artista
+a.2903	Liliana Angulo			0	artista
+a.2904	Liliana Cabrera			0	artista
+a.2905	Liliana Díaz			0	artista
+a.2906	Liliana Estrada			0	artista
+a.2907	Liliana Sánchez			0	artista
+a.2908	Lina Sánchez Calderón			0	artista
+a.2909	Lisseth Balcázar			0	artista
+a.2910	Lizeth Fernanda Figueroa Cruz			0	artista
+a.2911	lngo Arnold			0	artista
+a.2912	Loan Nguyen			0	artista
+a.2913	Lorena Espitia			0	artista
+a.2914	Lorena Marín			0	artista
+a.2915	Los Lichis			0	artista
+a.2916	Luis Angel Rengifo			0	artista
+a.2917	Luis Carlos Barrios			0	artista
+a.2918	Luis Carlos Felizardo			0	artista
+a.2919	Luis E. Cruz			0	artista
+a.2920	Luis Echavarría			0	artista
+a.2921	Luis Fernando López			0	artista
+a.2922	Luis Molina-Pantin			0	artista
+a.2923	Luis Nichizawa			0	artista
+a.2924	Luis Ricaurte			0	artista
+a.2925	Luis Solari			0	artista
+a.2926	Luisa Sossa			0	artista
+a.2927	M. M. Mosquera			0	artista
+a.2928	Magola Arango Mejia			0	artista
+a.2929	Manuel Guerrero			0	artista
+a.2930	Manuel Hernandez			0	artista
+a.2931	Manuel Romero			0	artista
+a.2932	Manuel Ruiz Montealegre			0	artista
+a.2933	Marc Vaux			0	artista
+a.2934	Marcela Gómez			0	artista
+a.2935	Marcela Quiroga			0	artista
+a.2936	Marcelo Aguirre			0	artista
+a.2937	Marcia Valladares			0	artista
+a.2938	Margarita Betancourt			0	artista
+a.2939	María Angélica Madero			0	artista
+a.2940	Maria Cristina Pavia			0	artista
+a.2941	María Juliana Soto			0	artista
+a.2942	María Mercedes Salgado			0	artista
+a.2943	María Paola Sánchez			0	artista
+a.2944	Maria Teresa Guerrero			0	artista
+a.2945	María Thereza de patiño			0	artista
+a.2946	María Victoria Salcedo			0	artista
+a.2947	Mariana Castillo Deball			0	artista
+a.2948	Mariana Murcia			0	artista
+a.2949	Marilaura Cajar			0	artista
+a.2950	Mario Carvo Neto			0	artista
+a.2951	Mario Fernando Camargo Gómez			0	artista
+a.2952	Mario Machado			0	artista
+a.2953	Maritza López			0	artista
+a.2954	Mark Lancaster			0	artista
+a.2955	Marta Plazas			0	artista
+a.2956	Martha Combariza			0	artista
+a.2957	Martha Jamín Giraldo Castaño			0	artista
+a.2958	Massimo Vignelli & Heinz Waibl			0	artista
+a.2959	Matali Crasset			0	artista
+a.2960	Mateo Rivano			0	artista
+a.2961	Mathías Goeritz			0	artista
+a.2962	Matthieu Laurette			0	artista
+a.2963	Mauricio Carmona			0	artista
+a.2964	Mauricio Corradini			0	artista
+a.2965	Mauro Colombo			0	artista
+a.2966	Melisa Saavedra Gil			0	artista
+a.2967	Memo Bejarano			0	artista
+a.2968	Mguel Ángel Rojas			0	artista
+a.2969	Michael Meyer			0	artista
+a.2970	Michelle Szejner			0	artista
+a.2971	Miguel Antonio Lozano			0	artista
+a.2972	Miguel Böhmer			0	artista
+a.2973	Miguel Castro Leñero			0	artista
+a.2974	Miguel Rio Barco			0	artista
+a.2975	Miguel Tejada			0	artista
+a.2976	Miky Calero			0	artista
+a.2977	Milton Glaser & Seymour Chwast			0	artista
+a.2978	Modern Mamboys			0	artista
+a.2979	Mónica Calderón			0	artista
+a.2980	Mónica de Llano			0	artista
+a.2981	Monica Meira			0	artista
+a.2982	More'H			0	artista
+a.2983	Nadia Granados			0	artista
+a.2984	Nahúm B. Zenil			0	artista
+a.2985	Nair Benedicto			0	artista
+a.2986	Nairy Baghramian			0	artista
+a.2987	Nan Goldin			0	artista
+a.2988	Nancy Wilson Pajic			0	artista
+a.2989	Nasan Tur			0	artista
+a.2990	Natalia Castañeda			0	artista
+a.2991	Natalia Correa			0	artista
+a.2992	Natalia Pipicano			0	artista
+a.2993	Natalia Santa			0	artista
+a.2994	Nathalie Spitia			0	artista
+a.2995	Nelson Guzmán			0	artista
+a.2996	Nestor Franco aka Bagual			0	artista
+a.2997	Nestor Gutiérrez			0	artista
+a.2998	Nicholás Buenaventura			0	artista
+a.2999	Nicolás Cadavid			0	artista
+a.3000	Nicolás González			0	artista
+a.3001	Nicolás Leguizamón			0	artista
+a.3002	Nicolás Moreno			0	artista
+a.3003	Nini Bautista			0	artista
+a.3004	Nini Johana			0	artista
+a.3005	Nora Schultz			0	artista
+a.3006	NU			0	artista
+a.3007	Nuria Quevedo			0	artista
+a.3008	Omaira Abadía			0	artista
+a.3009	Ómar Carreño			0	artista
+a.3010	Orgun Wagua			0	artista
+a.3011	Orlando Rojas			0	artista
+a.3012	Óscar Castellanos			0	artista
+a.3013	Óscar Leone			0	artista
+a.3014	Oscar Narvaez			0	artista
+a.3015	Oscar Salzar			0	artista
+a.3016	Oskar Kokoschka			0	artista
+a.3017	Pablo Besse			0	artista
+a.3018	Paola Tafur			0	artista
+a.3019	Parménides Meneses Anganoy			0	artista
+a.3020	Pastaza León			0	artista
+a.3021	Patricia Ayala			0	artista
+a.3022	Patricia Mariaca			0	artista
+a.3023	Patricia Vega			0	artista
+a.3024	Patricia Verón			0	artista
+a.3025	Patrick Caulfield			0	artista
+a.3026	Patty Elvira			0	artista
+a.3027	Paul Arias Silvia			0	artista
+a.3028	Paulo Licona			0	artista
+a.3029	Pedro Rivera			0	artista
+a.3030	Peter Gee			0	artista
+a.3031	Peter Max			0	artista
+a.3032	Peter Phillips			0	artista
+a.3033	Peter Sedgley			0	artista
+a.3034	Philippe Starck			0	artista
+a.3035	Pierre Pinoncelli			0	artista
+a.3036	Pilar Flores			0	artista
+a.3037	Power Paola			0	artista
+a.3038	Powerpaola			0	artista
+a.3039	Precarius Tecnológicus			0	artista
+a.3040	Prins Martjin			0	artista
+a.3041	Proyecto Dies			0	artista
+a.3042	Proyecto Medusa			0	artista
+a.3043	Radi			0	artista
+a.3044	Rafael Alvarez Salas			0	artista
+a.3045	Rafael Borrero Vergara			0	artista
+a.3046	Raimond Chaves			0	artista
+a.3047	Rainer Herold			0	artista
+a.3048	Raúl Anguiano			0	artista
+a.3049	Raúl Fernández Calleja			0	artista
+a.3050	Rembrandt			0	artista
+a.3051	Rened Varona			0	artista
+a.3052	Ricardo Acevedo Bernal			0	artista
+a.3053	Ricardo Antonio Ruiz			0	artista
+a.3054	Ricardo Martínez			0	artista
+a.3055	Richard Bravo			0	artista
+a.3056	Richard Hamilton			0	artista
+a.3057	Richard Linder			0	artista
+a.3058	Richard P. Lohse & Marlene Bruber			0	artista
+a.3059	Rina Lazo			0	artista
+a.3060	Robert Friedmann			0	artista
+a.3061	Robert Gretczko & Charles Zimmerman			0	artista
+a.3062	Roberto Valcarcel			0	artista
+a.3063	Robyn Denny			0	artista
+a.3064	Rodolfo Morales			0	artista
+a.3065	Rogelio Salmona			0	artista
+a.3066	Rolf Muenzner			0	artista
+a.3067	Roman Cieslewicz			0	artista
+a.3068	Rosa Sanin Sader			0	artista
+a.3069	Rosario López			0	artista
+a.3070	Rosemarie Gleiser			0	artista
+a.3071	Rubén Mendoza			0	artista
+a.3072	Ruth Bessoudo			0	artista
+a.3073	Samuel Bohórquez			0	artista
+a.3074	Sandra Patricia Navia			0	artista
+a.3075	Santiago Caicedo			0	artista
+a.3076	Santiago Escobar			0	artista
+a.3077	Santiago Harker			0	artista
+a.3078	Santiago Leal			0	artista
+a.3079	Santiago Osorio Medina			0	artista
+a.3080	Santiago Rebolledo			0	artista
+a.3081	Santiago Uribe Olguin			0	artista
+a.3082	Saul Bass			4	artista
+a.3083	Saul Steinberg			0	artista
+a.3084	Schulz-Neudamm			0	artista
+a.3085	Sebastián			0	artista
+a.3086	Sebastián Fierro			0	artista
+a.3087	Sebastián Martínez			0	artista
+a.3088	Sergio Andrés Zapata			0	artista
+a.3089	Sergio Bartelsman			0	artista
+a.3090	Sergio Hernández			0	artista
+a.3091	Sergio Luis Cerón Muñoz			0	artista
+a.3092	Sergio Vélez			0	artista
+a.3093	Sergio Zapata			0	artista
+a.3094	Silvie Boutiq			0	artista
+a.3095	Simón Hernandez			0	artista
+a.3096	Stephanie López			0	artista
+a.3097	Steven Andrés Ruiz Bello.			0	artista
+a.3098	Stinkfish			0	artista
+a.3099	Susana Casarin			0	artista
+a.3100	Tabara R.			0	artista
+a.3101	Taco F.			0	artista
+a.3102	Tadanori Yokoo.			0	artista
+a.3103	Tatiana Acevedo			0	artista
+a.3104	Tatiana Montoya			0	artista
+a.3105	Tess Jaray			0	artista
+a.3106	Theophile Steinlen			0	artista
+a.3107	Tino Sehgal			0	artista
+a.3108	Tomás López Rocha Ulises Licea			0	artista
+a.3109	Trueba Arenas			0	artista
+a.3110	Tupac Cruz			0	artista
+a.3111	Typozon			0	artista
+a.3112	Valencia J.			0	artista
+a.3113	Vanessa Sandoval			0	artista
+a.3114	Varios			0	artista
+a.3115	Verónica Lehner			0	artista
+a.3116	Vicente Martin			0	artista
+a.3117	Victor Albarracín			0	artista
+a.3118	Victor Gaviria			0	artista
+a.3119	Víctor Rodriguez			0	artista
+a.3120	Violeta Ospina			0	artista
+a.3121	Viteri Oswaldo			0	artista
+a.3122	Volker Stelzmann			0	artista
+a.3123	Walter Dexel			0	artista
+a.3124	Wi llem DE Kooning			0	artista
+a.3125	Wilger Sotelo			0	artista
+a.3126	Wilhelm Rudolph			0	artista
+a.3127	Willi Sitte			0	artista
+a.3128	William Bahos			0	artista
+a.3129	William Narváez			0	artista
+a.3130	Wilson Díaz & Juan Mejía			1	artista
+a.3131	Wim Crouwel			0	artista
+a.3132	Wolfgang Mattheuer			0	artista
+a.3133	Ximena Díaz			0	artista
+a.3134	Yang Fudong			0	artista
+a.3135	Yeison Riascos			0	artista
+a.3136	Yezid Campos			0	artista
+a.3137	Yolanda Andrade			0	artista
+a.3138	Yolanda Chois			0	artista
+a.3139	Yorgos Sapountzis			0	artista
+a.3140	Yuki Onodéra			0	artista
+a.3141	Yuri Forero			0	artista
+a.3142	Yury Hernando Forero			0	artista
+a.3143	Yuya González del Real.			0	artista
+a.3144	yuyanapaq			0	artista
+a.3279	Miguel Melcon			0	artista
+a.3280	Juan Genovés			0	artista
+a.3281	evansandwong			0	artista
+c.100	María de la Paz Jaramillo	1948	persona	Colombia	curador
+c.8	Álvaro Barrios		persona	Colombia	curador
+c.119	Óscar Muñoz	1951	persona	Colombia	curador
+c.110	Miguel Ángel Rojas		persona	Colombia	curador
+c.83	José Horacio Martínez	1961	persona	Colombia	curador
+c.94	Lucas Ospina	1971	persona	Colombia	curador
+c.93	Leonardo Herrera		persona	Colombia	curador
+c.44	Elías Heim	1966	persona	Colombia	curador
+c.12	Ana Tiscornia		persona	Uruguay	curador
+c.125	Pierre Keller		persona	Suiza	curador
+c.87	Juan Mejía	1966	persona	Norteamericana	curador
+c.6	Alberto Sierra		persona	Colombia	curador
+c.144	Wilson Díaz	1963	persona	Colombia	curador
+c.22	Bernardo Ortiz		persona		curador
+c.14	Andrés Fresneda		persona		curador
+c.9	Álvaro Medina		persona		curador
+c.82	José Alejandro Restrepo		persona		curador
+c.88	Juan Pablo Fajardo		persona		curador
+c.133	Sergio Trujillo Jaramillo		persona		curador
+c.134	Soffy Arboleda de Vega		persona		curador
+c.106	María Sol Barón		persona		curador
+c.24	Camilo Ordóñez Robayo		persona		curador
+c.23	Breyner Huertas		persona		curador
+c.31	Carlos Tamayo		persona		curador
+c.46	Éricka Flórez		persona		curador
+c.68	Herlyng Ferla		persona		curador
+c.69	Hermann Yusty		persona		curador
+c.96	Luis Ricaurte		persona		curador
+c.147	Yolanda Chois		persona		curador
+c.35	Circular presents :Daniel Tejada & Sergio Zapata & David León & Adrián Gaitán		colectivo		curador
+c.67	Helena Producciones		colectivo		curador
+c.137	Un Lugar de la Plastica		colectivo		curador
+c.19	Asociación Francesa de Acción Artística		organizacion		curador
+c.34	Cinemateca de Berlín		organizacion		curador
+c.38	Departamento de Artes Visuales del Ministerio de Cultura		organizacion		curador
+c.40	Dirección de Patrimonio del Ministerio de Cultura		organizacion		curador
+c.41	Doc Desing		organizacion		curador
+c.47	Escuela Especial de Arquitectura/ESAP		organizacion		curador
+c.49	Exposición realizada en el marco de PhotoCali 2007		organizacion		curador
+c.54	Fundación MAPFRE		organizacion		curador
+c.55	Fundación Rogelio Salmona		organizacion		curador
+c.56	Galería de Francony de París		organizacion		curador
+c.57	Galería Deimos de Bogotá		organizacion		curador
+c.70	Instituto de Cultura Puertoriqueño		organizacion		curador
+c.71	Instituto Tamarind de EE.UU.		organizacion		curador
+c.72	Intituto Smithsonian de EE.UU.		organizacion		curador
+c.113	Museo Beth Hatefutsoth		organizacion		curador
+c.114	Museo de Francia		organizacion		curador
+c.115	Museo Nacional de Ciencia y Tecnología de Canadá		organizacion		curador
+c.116	Museo Nacional de Colombia		organizacion		curador
+c.127	Propal S.A.		organizacion		curador
+c.1	Abraham Restrepo		persona		curador
+c.2	Acklyn Lynch		persona		curador
+c.3	Alberto Moreno		persona		curador
+c.4	Alberto Pérez		persona		curador
+c.5	Alberto Quiroga		persona		curador
+c.7	Alejandro Martín Maldonado		persona		curador
+c.10	Ana María Lozano		persona		curador
+c.11	Ana Sokoloff		persona		curador
+c.13	Andrés Casanova		persona		curador
+c.15	Andrés Pardo		persona		curador
+c.16	Ángela Gómez Cely		persona		curador
+c.17	Ángela Osorio		persona		curador
+c.18	Angelika Stepken		persona		curador
+c.20	Bélgica Rodríguez		persona		curador
+c.21	Bengt Oldenburg		persona		curador
+c.25	Carlos Arturo Fernández		persona		curador
+c.26	Carlos Betancourt		persona		curador
+c.27	Carlos Botero		persona		curador
+c.28	Carlos Jiménez		persona		curador
+c.29	Carlos Niño Murcia		persona		curador
+c.30	Carlos Quintero		persona		curador
+c.32	Carolina Ponce de León		persona		curador
+c.33	Carolina Vanegas		persona		curador
+c.36	Cristo Hoyos		persona		curador
+c.37	Darío Ruiz		persona		curador
+c.39	Diego L. Arango G.		persona		curador
+c.42	Ed Love		persona		curador
+c.43	Eduardo Serrano		persona		curador
+c.45	Elkin Calderón		persona		curador
+c.48	Eugenio Jaramillo		persona		curador
+c.50	Federico Morais		persona		curador
+c.51	Fiorella Gómez-Silva		persona		curador
+c.52	Francisco Ramírez Potes		persona		curador
+c.53	Franz Bader		persona		curador
+c.58	George Smiths		persona		curador
+c.59	Gérard Georges		persona		curador
+c.60	Gerhnard Schack		persona		curador
+c.61	Germán García		persona		curador
+c.62	German Patiño		persona		curador
+c.63	Germán Rubiano Caballero		persona		curador
+c.64	Giancarlo Parodi		persona		curador
+c.65	Gloria Delgado Restrepo		persona		curador
+c.66	Guillermo Vanegas		persona		curador
+c.73	Isabelle de Montfumat		persona		curador
+c.74	Jaime Cerón		persona		curador
+c.75	Jaime Tamayo		persona		curador
+c.76	Javier Gil		persona		curador
+c.77	Javier Mejía		persona		curador
+c.78	Jenny Vilá		persona		curador
+c.79	John Philips		persona		curador
+c.80	Jorge Glusberg		persona		curador
+c.81	Jorge Jaramillo		persona		curador
+c.84	José Roca		persona		curador
+c.85	José Ruiz		persona		curador
+c.86	Juan Alberto Gaviria		persona		curador
+c.89	Juan Rodríguez Varón		persona		curador
+c.90	Juan Sebastián Ramirez		persona		curador
+c.91	Laura Jiménez		persona		curador
+c.92	Laura Puerta		persona		curador
+c.95	Luis Ángel Parra		persona		curador
+c.97	Marc Berkowitz		persona		curador
+c.98	Marc Sagaert		persona		curador
+c.99	María Claudia Parias		persona		curador
+c.101	María Elvira Iriarte		persona		curador
+c.102	María Fernanda Domínguez		persona		curador
+c.103	María Inés Rodríguez		persona		curador
+c.104	María Iovino		persona		curador
+c.105	María Margarita Jiménez		persona		curador
+c.107	María Teresa Guerrero		persona		curador
+c.108	María Wills		persona		curador
+c.109	Marta Traba		persona		curador
+c.111	Miguel González		persona		curador
+c.112	Monica Castillo		persona		curador
+c.117	Nancy A. Corwing		persona		curador
+c.118	Nathalia Azuero		persona		curador
+c.120	Oscar Roldán-Alzate		persona		curador
+c.121	Pablo Neruda		persona		curador
+c.122	Philipp Ziegler		persona		curador
+c.123	Piedad Casas de Ballesteros		persona		curador
+c.124	Pierre Courcelles		persona		curador
+c.126	Pieter Bos		persona		curador
+c.128	Rafael Pérez y Pérez		persona		curador
+c.129	Riccardo Giacconi		persona		curador
+c.130	Rosa Perales Piqueres		persona		curador
+c.131	Santiago Samper Trainer		persona		curador
+c.132	Sebastián Ramírez		persona		curador
+c.135	Sylvan Cole		persona		curador
+c.136	Talila Greenberg		persona		curador
+c.138	Verónica Wiman		persona		curador
+c.139	Víctor Alcalde		persona		curador
+c.140	Victoria Noorthoorn		persona		curador
+c.141	Waldemar Sommer		persona		curador
+c.142	William Contreras Alfonso		persona		curador
+c.143	Willim Harris		persona		curador
+c.145	Winston Kennedy		persona		curador
+c.146	Yohanna Roa		persona		curador
